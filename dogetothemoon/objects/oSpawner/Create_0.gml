@@ -1,0 +1,13 @@
+sAlarm = room_speed;
+old_rand = 0;
+rand = 0;
+gameScore = 0;
+//gameLives = 0;
+playerDead = false;
+ini_open("saveFile");
+highScore = ini_read_real("highscore","score",0);
+eSpeed = 3;
+eAlarm = 600;
+canRestart=false;
+ini_close();
+draw_set_font(gameFont);
