@@ -2,11 +2,7 @@
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
-<<<<<<< Updated upstream:dogetothemoon/sprites/sBullet/sBullet.yy
   "origin": 7,
-=======
-  "origin": 9,
->>>>>>> Stashed changes:dogetothemoon/sprites/Sprite1/Sprite1.yy
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -58,13 +54,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-<<<<<<< Updated upstream:dogetothemoon/sprites/sBullet/sBullet.yy
     "xorigin": 3,
     "yorigin": 8,
-=======
-    "xorigin": 26,
-    "yorigin": 26,
->>>>>>> Stashed changes:dogetothemoon/sprites/Sprite1/Sprite1.yy
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"sBullet","path":"sprites/sBullet/sBullet.yy",},
