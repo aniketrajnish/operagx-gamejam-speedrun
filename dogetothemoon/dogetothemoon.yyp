@@ -1,5 +1,6 @@
 {
   "resources": [
+<<<<<<< Updated upstream
     {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},"order":2,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":1,},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":0,},
@@ -12,6 +13,14 @@
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":2,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},"order":0,},
+=======
+    {"id":{"name":"S_Background","path":"sprites/S_Background/S_Background.yy",},"order":16,},
+    {"id":{"name":"S_DogeBullet","path":"sprites/S_DogeBullet/S_DogeBullet.yy",},"order":2,},
+    {"id":{"name":"S_Doge","path":"sprites/S_Doge/S_Doge.yy",},"order":1,},
+    {"id":{"name":"S_Bitcoin","path":"sprites/S_Bitcoin/S_Bitcoin.yy",},"order":15,},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":0,},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+>>>>>>> Stashed changes
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
