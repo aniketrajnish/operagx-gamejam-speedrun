@@ -7,6 +7,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
     {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},"order":4,},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},"order":0,},
+    {"id":{"name":"Sprite9","path":"sprites/Sprite9/Sprite9.yy",},"order":9,},
     {"id":{"name":"SStars","path":"sprites/SStars/SStars.yy",},"order":8,},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":0,},
