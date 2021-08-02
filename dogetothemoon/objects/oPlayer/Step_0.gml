@@ -1,18 +1,32 @@
-left = keyboard_check(ord("A"));
-right = keyboard_check(ord("D"));
+left = keyboard_check(ord("A")) or keyboard_check(vk_left);
+right = keyboard_check(ord("D"))or keyboard_check(vk_right);
 shoot = keyboard_check(vk_space);
 
 move = 0;
+pSpeed = 5*oSpawner.eSpeed/3;
+if(left)
+{
+	move = -1;
+	image_angle+=3;
+}
+if(right) 
+{
+	move = 1;
+	image_angle-=3;
+}
 
-if(left) move = -1;
-if(right) move = 1;
+if(!left and !right)
+{
+	image_angle = lerp(image_angle, 0 , .25);
+}
 
 x = x + move * pSpeed;
 
-pAlarm-=2;
+pAlarm-= oSpawner.eSpeed/3;
 x=clamp(x, 50, room_width-50);
+image_angle = clamp(image_angle, -30, 30)
 
-if (pAlarm == 0)
+if (pAlarm <= 0)
 {
 	pAlarm = 0;
 	canShoot = true;

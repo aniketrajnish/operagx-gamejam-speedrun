@@ -9,4 +9,6 @@ if(eLife<0)
 	effect_create_below(ef_smokeup, x,y, 2, c_yellow);
 }
 if (y>1000) instance_destroy();
+if(image_alpha != 1)
+image_alpha = lerp(image_alpha, 1, .25);
 

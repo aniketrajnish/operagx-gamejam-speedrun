@@ -1,8 +1,8 @@
-sAlarm--;
-if (sAlarm == 0)
+sAlarm-= eSpeed/6;
+if (sAlarm <= 0)
 {
 	rand = random_range(0,250);
-	while (rand <= old_rand + 100 and rand >= old_rand - 100)
+	while (rand <= old_rand + 50 and rand >= old_rand - 50)
 	{
 		rand = random_range(0,270);
 	}
@@ -11,7 +11,7 @@ if (sAlarm == 0)
 	instance_create_depth(x + rand, y-100, 1, oEnemy);
 	old_rand = rand;
 }
-if(!playerDead) gameScore+= 5*eSpeed;
+if(!playerDead) gameScore+= 2*floor(eSpeed);
 else
 {	
 	canRestart = true;
@@ -26,8 +26,9 @@ eAlarm--;
 
 if (eAlarm<=0)
 {	
+	//count+=.5;
 	eAlarm = 60;
-	eSpeed+=.2;
+	eSpeed+= .5/eSpeed;
 }
 
 if (shake)

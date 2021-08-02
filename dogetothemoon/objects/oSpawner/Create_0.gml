@@ -13,5 +13,6 @@ ini_close();
 draw_set_font(gameFont);
 shake = false;
 shakeValue = 0;
+//count =1;
 view_x = camera_get_view_x(view_camera[0]);
 view_y = camera_get_view_y(view_camera[0]);
