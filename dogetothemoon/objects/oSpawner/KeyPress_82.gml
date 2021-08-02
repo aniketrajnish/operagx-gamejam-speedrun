@@ -1,2 +1,2 @@
 if(canRestart)	
-room_goto(1);
+room_goto(0);

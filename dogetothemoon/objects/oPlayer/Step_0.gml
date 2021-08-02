@@ -9,8 +9,8 @@ if(right) move = 1;
 
 x = x + move * pSpeed;
 
-pAlarm-=5;
-x=clamp(x, 21, room_width-21);
+pAlarm-=2;
+x=clamp(x, 50, room_width-50);
 
 if (pAlarm == 0)
 {
@@ -20,7 +20,7 @@ if (pAlarm == 0)
 
 if (shoot and canShoot)
 {
-	instance_create_depth(x, y-41, -1, oBullet);
+	instance_create_depth(x, y-26, -1, oBullet);
 	canShoot = false;
 	pAlarm = room_speed;
 }

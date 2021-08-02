@@ -11,7 +11,7 @@ if (sAlarm == 0)
 	instance_create_depth(x + rand, y-100, 1, oEnemy);
 	old_rand = rand;
 }
-if(!playerDead) gameScore+= eSpeed;
+if(!playerDead) gameScore+= 5*eSpeed;
 else
 {	
 	canRestart = true;
@@ -26,7 +26,15 @@ eAlarm--;
 
 if (eAlarm<=0)
 {	
-	eAlarm = 600;
-	eSpeed+=1;
+	eAlarm = 60;
+	eSpeed+=.2;
 }
 
+if (shake)
+{
+	camera_set_view_pos(view_camera[0], view_x + random_range(-shakeValue, shakeValue),view_y + random_range(-shakeValue, shakeValue));
+}
+else
+{
+	camera_set_view_pos(view_camera[0], view_x, view_y)
+}

@@ -1,1 +1,54 @@
-{resources:[{id:{name:'gameFont',path:'fonts/gameFont/gameFont.yy'},order:0},{id:{name:'oBullet',path:'objects/oBullet/oBullet.yy'},order:0},{id:{name:'oEnemy',path:'objects/oEnemy/oEnemy.yy'},order:1},{id:{name:'oMenu',path:'objects/oMenu/oMenu.yy'},order:2},{id:{name:'oPlayer',path:'objects/oPlayer/oPlayer.yy'},order:3},{id:{name:'oSpawner',path:'objects/oSpawner/oSpawner.yy'},order:4},{id:{name:'Game',path:'rooms/Game/Game.yy'},order:0},{id:{name:'Menu',path:'rooms/Menu/Menu.yy'},order:1},{id:{name:'sEnemy',path:'sprites/sEnemy/sEnemy.yy'},order:0},{id:{name:'sMenu',path:'sprites/sMenu/sMenu.yy'},order:1},{id:{name:'sPlayer',path:'sprites/sPlayer/sPlayer.yy'},order:2},{id:{name:'S_Background',path:'sprites/S_Background/S_Background.yy'},order:4},{id:{name:'S_Bitcoin',path:'sprites/S_Bitcoin/S_Bitcoin.yy'},order:5},{id:{name:'S_Doge',path:'sprites/S_Doge/S_Doge.yy'},order:3},{id:{name:'S_DogeBullet',path:'sprites/S_DogeBullet/S_DogeBullet.yy'},order:4}],Options:[{name:'Main',path:'options/main/options_main.yy'},{name:'Windows',path:'options/windows/options_windows.yy'}],isDnDProject:false,isEcma:false,tutorialPath:'',configs:{name:'Default',children:[]},RoomOrderNodes:[{roomId:{name:'Game',path:'rooms/Game/Game.yy'}},{roomId:{name:'Menu',path:'rooms/Menu/Menu.yy'}}],Folders:[{folderPath:'folders/Fonts.yy',order:0,resourceVersion:'1.0',name:'Fonts',tags:[],resourceType:'GMFolder'},{folderPath:'folders/Objects.yy',order:1,resourceVersion:'1.0',name:'Objects',tags:[],resourceType:'GMFolder'},{folderPath:'folders/Rooms.yy',order:2,resourceVersion:'1.0',name:'Rooms',tags:[],resourceType:'GMFolder'},{folderPath:'folders/Sprites.yy',order:3,resourceVersion:'1.0',name:'Sprites',tags:[],resourceType:'GMFolder'}],AudioGroups:[{targets:-1,resourceVersion:'1.3',name:'audiogroup_default',resourceType:'GMAudioGroup'}],TextureGroups:[{isScaled:true,autocrop:true,border:2,mipsToGenerate:0,groupParent:null,targets:-1,resourceVersion:'1.3',name:'Default',resourceType:'GMTextureGroup'}],IncludedFiles:[],MetaData:{IDEVersion:'2.3.2.556'},resourceVersion:'1.4',name:'dogetothemoon',tags:[],resourceType:'GMProject'}
+{
+  "resources": [
+    {"id":{"name":"gameFont","path":"fonts/gameFont/gameFont.yy",},"order":0,},
+    {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":0,},
+    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":1,},
+    {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":2,},
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":3,},
+    {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},"order":4,},
+    {"id":{"name":"Game","path":"rooms/Game/Game.yy",},"order":0,},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
+    {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":0,},
+    {"id":{"name":"sMenu","path":"sprites/sMenu/sMenu.yy",},"order":1,},
+    {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},"order":2,},
+    {"id":{"name":"S_Background","path":"sprites/S_Background/S_Background.yy",},"order":5,},
+    {"id":{"name":"sBitcoin","path":"sprites/sBitcoin/sBitcoin.yy",},"order":6,},
+    {"id":{"name":"sDoge","path":"sprites/sDoge/sDoge.yy",},"order":3,},
+    {"id":{"name":"S_DogeBullet","path":"sprites/S_DogeBullet/S_DogeBullet.yy",},"order":4,},
+  ],
+  "Options": [
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+  ],
+  "isDnDProject": false,
+  "isEcma": false,
+  "tutorialPath": "",
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Game","path":"rooms/Game/Game.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Fonts.yy","order":0,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":1,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":2,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites.yy","order":3,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2.3.3.574",
+  },
+  "resourceVersion": "1.4",
+  "name": "dogetothemoon",
+  "tags": [],
+  "resourceType": "GMProject",
+}

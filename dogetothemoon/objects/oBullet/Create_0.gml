@@ -1,1 +1,2 @@
-bSpeed = 10;
+bSpeed = 2;
+rand = random_range(-6,6);

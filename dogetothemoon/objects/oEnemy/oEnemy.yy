@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sEnemy",
-    "path": "sprites/sEnemy/sEnemy.yy",
+    "name": "sBitcoin",
+    "path": "sprites/sBitcoin/sBitcoin.yy",
   },
   "solid": false,
   "visible": true,
