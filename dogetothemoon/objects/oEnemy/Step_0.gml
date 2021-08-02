@@ -6,7 +6,7 @@ if(eLife<0)
 	oSpawner.shakeValue = 3;
 	oSpawner.shake = true;
 	oSpawner.alarm[0] = 30;
-	effect_create_below(ef_smokeup, x,y, 2, c_yellow);
+	part_particles_create(global.partSystem, x , y , global.ptBasic, 1);
 }
 if (y>1000) instance_destroy();
 if(image_alpha != 1)
