@@ -24,7 +24,7 @@ x = x + move * pSpeed;
 
 pAlarm-= oSpawner.eSpeed/3;
 x=clamp(x, 50, room_width-50);
-image_angle = clamp(image_angle, -30, 30)
+image_angle = clamp(image_angle, -15, 15)
 
 if (pAlarm <= 0)
 {

@@ -1,7 +1,9 @@
 instance_destroy();
 other.eLife--;
-oSpawner.shakeValue = 1;
+other.sprite_index = SHitbitcoin;
+other.eAlarm=10;
+oSpawner.shakeValue = 4;
 oSpawner.shake = true;
-oSpawner.alarm[0] = 30;
+oSpawner.alarm[0] = 5;
 rand = random_range(-.25,.25);
-other.image_alpha = .25;
+//other.image_alpha = .25;

@@ -1,8 +1,8 @@
 {
   "bboxMode": 0,
-  "collisionKind": 1,
+  "collisionKind": 0,
   "type": 0,
-  "origin": 0,
+  "origin": 4,
   "preMultiplyAlpha": false,
   "edgeFiltering": false,
   "collisionTolerance": 0,
@@ -39,21 +39,6 @@
     {"compositeImage":{"FrameId":{"name":"081c00f1-edc9-4aac-a1a1-8597ab44ed53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
         {"FrameId":{"name":"081c00f1-edc9-4aac-a1a1-8597ab44ed53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
       ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"081c00f1-edc9-4aac-a1a1-8597ab44ed53","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"34a2646f-f631-401d-9564-6fd7380adfba","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"34a2646f-f631-401d-9564-6fd7380adfba","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"34a2646f-f631-401d-9564-6fd7380adfba","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"49106bc1-b186-407b-831a-4dce8fd57a53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"49106bc1-b186-407b-831a-4dce8fd57a53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"49106bc1-b186-407b-831a-4dce8fd57a53","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"7de5d8e8-b4fc-4601-bd5c-d51520433ab9","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"7de5d8e8-b4fc-4601-bd5c-d51520433ab9","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"7de5d8e8-b4fc-4601-bd5c-d51520433ab9","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"212883cc-af20-4cdd-b959-7ba031fe98e0","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"212883cc-af20-4cdd-b959-7ba031fe98e0","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"212883cc-af20-4cdd-b959-7ba031fe98e0","tags":[],"resourceType":"GMSpriteFrame",},
-    {"compositeImage":{"FrameId":{"name":"40d146d6-e765-4c2d-9ea3-fd431841342f","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"40d146d6-e765-4c2d-9ea3-fd431841342f","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"LayerId":{"name":"963e9945-deb1-4f62-a4fe-11b10fc37717","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","name":"40d146d6-e765-4c2d-9ea3-fd431841342f","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
     "spriteId": {"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},
@@ -63,21 +48,16 @@
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
-    "length": 10.0,
+    "length": 5.0,
     "events": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MessageEventKeyframe>",},
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
             {"id":"1df3a61f-f4bf-4e4d-9de8-5993122cbcef","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"fbd8bc47-cb9f-4f3a-b11a-563d21a17996","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"ae2b5271-bee2-4928-98a9-d22c9b9e7daa","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7eb34659-fe93-4d31-8202-f1d8bd6c2b08","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"433e53d4-f768-46fe-99cf-c85cec76392e","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b3ab8f17-29ce-4751-b325-2efe42672587","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"e02168d0-452d-4137-9ab6-718baca420f0","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d2efc6b8-3eb9-45b9-a53c-e316acd9ed42","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"0df68d4a-5811-4199-9ad6-4a2b14f99411","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"081c00f1-edc9-4aac-a1a1-8597ab44ed53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"bad4ec24-5230-422a-b8f0-7e4f48e4cbe9","Key":5.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"34a2646f-f631-401d-9564-6fd7380adfba","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"cecf8e8b-9ca5-4ca9-9545-8287bb8cbb84","Key":6.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"49106bc1-b186-407b-831a-4dce8fd57a53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"0339ee38-ff36-414f-9949-dda3b9778ece","Key":7.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7de5d8e8-b4fc-4601-bd5c-d51520433ab9","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"777b0dce-e20f-44a3-a87a-9d7659364d8d","Key":8.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"212883cc-af20-4cdd-b959-7ba031fe98e0","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
-            {"id":"6ac94e53-bddf-47e5-855b-6485a5287051","Key":9.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"40d146d6-e765-4c2d-9ea3-fd431841342f","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"fa0cabfd-6af3-451b-ae4b-e40977526a43","Key":1.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"7eb34659-fe93-4d31-8202-f1d8bd6c2b08","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"868f9071-c4f0-40ee-82be-48c71e4cd68b","Key":2.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b3ab8f17-29ce-4751-b325-2efe42672587","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a03be51f-665f-4393-be6c-4893a525408c","Key":3.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"d2efc6b8-3eb9-45b9-a53c-e316acd9ed42","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"a3eefdf6-d4c8-4c67-93d0-06c32f2e88f7","Key":4.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"081c00f1-edc9-4aac-a1a1-8597ab44ed53","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -90,8 +70,8 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 0,
-    "yorigin": 0,
+    "xorigin": 50,
+    "yorigin": 32,
     "eventToFunction": {},
     "eventStubScript": null,
     "parent": {"name":"SHitbitcoin","path":"sprites/SHitbitcoin/SHitbitcoin.yy",},
