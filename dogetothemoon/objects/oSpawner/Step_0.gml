@@ -19,6 +19,7 @@ else
 	{
 		ini_open("saveFile");
 		ini_write_real("highscore","score",gameScore);
+		highScore = ini_read_real("highscore","score",0);
 	}
 }
 
