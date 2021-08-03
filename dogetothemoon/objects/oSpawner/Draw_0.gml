@@ -36,7 +36,7 @@ else
 {	
 	draw_set_font(gameFont);
 	draw_set_color(c_yellow);
-	draw_text(x+10, y+10, "Hi $" + string(highScore));	
+	draw_text(x, y+10, "Hi $" + string(highScore));	
 	//draw_text(x+50, y+20,string(eSpeed));
 }
 //draw_text(x+10, y+40, "Lives: " + string(gameLives));
