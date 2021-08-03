@@ -6,7 +6,7 @@ gameScore = 0;
 playerDead = false;
 ini_open("saveFile");
 highScore = ini_read_real("highscore","score",0);
-eSpeed = 3;
+difficulty = 3;
 eAlarm = 60;
 canRestart=false;
 ini_close();
