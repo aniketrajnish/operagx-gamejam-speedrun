@@ -34,6 +34,8 @@ if (pAlarm <= 0)
 
 if (shoot and canShoot)
 {
+	oSpawner.gameScore -= 69;
+	part_particles_create(global.partSystem, x+10 , y-15 , global.ptTextMinus, 1);
 	instance_create_depth(x, y-26, -1, oBullet);
 	canShoot = false;
 	pAlarm = room_speed;

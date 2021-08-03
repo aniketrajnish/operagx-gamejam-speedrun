@@ -1,17 +1,20 @@
 sAlarm-= eSpeed/6;
 if (sAlarm <= 0)
 {
-	rand = random_range(0,250);
+	rand = random_range(-150,150);
 	while (rand <= old_rand + 50 and rand >= old_rand - 50)
 	{
-		rand = random_range(0,270);
+		rand = random_range(-150,150);
 	}
 	
 	sAlarm = room_speed;
-	instance_create_depth(x + rand, y-100, 1, oEnemy);
+	instance_create_depth(x + rand, y-50, 1, oEnemy);
 	old_rand = rand;
 }
-if(!playerDead) gameScore+= 2*floor(eSpeed);
+if(!playerDead) gameScore+= floor(.5*eSpeed);
+
+if(gameScore<0) gameScore = 0;
+
 else
 {	
 	canRestart = true;
