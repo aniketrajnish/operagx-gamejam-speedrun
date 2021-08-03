@@ -1,7 +1,7 @@
 image_angle = image_angle + rand;
 y = y + oSpawner.difficulty;
 eAlarm--;
-if(eAlarm<=0) sprite_index = sBitcoin;
+if(eAlarm<=0) sprite_index = spr;
 if(eLife<0)
 {
 	instance_destroy();

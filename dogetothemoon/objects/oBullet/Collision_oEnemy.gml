@@ -1,6 +1,6 @@
 instance_destroy();
 other.eLife--;
-other.sprite_index = SHitbitcoin;
+other.sprite_index = other.sprHit;
 other.eAlarm=10;
 oSpawner.shakeValue = 4;
 oSpawner.shake = true;
