@@ -25,11 +25,11 @@ if(room == Game)
 		draw_text(x, y+280, "$" + string(gameScore));
 		draw_set_color(c_yellow);
 		draw_text(x, y+340, "Press 'R' to restart");
-		draw_set_font(gameFontSmall);
-		draw_text(x, y+500, "made with love");		
-		draw_set_color(c_white);
-		draw_text(x, y+540, "makra");
-		draw_text(x, y+580, "shaydiesin");
+		//draw_set_font(gameFontSmall);
+		//draw_text(x, y+500, "made with love");		
+		//draw_set_color(c_white);
+		//draw_text(x, y+540, "makra");
+		//draw_text(x, y+580, "shaydiesin");
 	}
 }
 else

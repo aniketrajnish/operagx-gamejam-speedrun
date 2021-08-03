@@ -12,9 +12,6 @@ if (sAlarm <= 0)
 	old_rand = rand;
 }
 if(!playerDead) gameScore+= floor(.5*eSpeed);
-
-if(gameScore<0) gameScore = 0;
-
 else
 {	
 	canRestart = true;
@@ -25,6 +22,8 @@ else
 		highScore = ini_read_real("highscore","score",0);
 	}
 }
+
+if(gameScore<0) gameScore = 0;
 
 eAlarm--;
 
