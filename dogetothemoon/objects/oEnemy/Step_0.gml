@@ -1,5 +1,5 @@
 image_angle = image_angle + rand;
-y = y + oSpawner.eSpeed;
+y = y + oSpawner.difficulty;
 eAlarm--;
 if(eAlarm<=0) sprite_index = sBitcoin;
 if(eLife<0)

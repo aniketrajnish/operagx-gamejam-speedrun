@@ -1,5 +1,4 @@
 #region Particle Types
-
 var gParticle = part_type_create();
 part_type_shape(gParticle, pt_shape_disk);
 part_type_life(gParticle, 20, 40);

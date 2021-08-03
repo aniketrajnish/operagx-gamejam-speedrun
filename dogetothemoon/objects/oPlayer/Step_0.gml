@@ -3,7 +3,7 @@ right = keyboard_check(ord("D"))or keyboard_check(vk_right);
 shoot = keyboard_check(vk_space);
 
 move = 0;
-pSpeed = 5*oSpawner.eSpeed/3;
+pSpeed = 5*oSpawner.difficulty/3;
 if(left)
 {
 	move = -1;
@@ -22,7 +22,7 @@ if(!left and !right)
 
 x = x + move * pSpeed;
 
-pAlarm-= oSpawner.eSpeed/2.25;
+pAlarm-= oSpawner.difficulty/2.25;
 x=clamp(x, 50, room_width-50);
 image_angle = clamp(image_angle, -15, 15)
 
