@@ -1,5 +1,5 @@
 sAlarm-= difficulty/6;
-if (sAlarm <= 0)
+if (sAlarm <= 0 and room == Game)
 {
 	rand = random_range(-150,150);
 	while (rand <= old_rand + 50 and rand >= old_rand - 50)
