@@ -2,876 +2,936 @@ You are using YYP Maker v1.1.2, released in 11-04-2021
 
 
 
-[04-08-2021 01:34:09] Initialized GameMaker Project: dogetothemoon.yyp
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/animcurves
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/datafiles
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/extensions
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts
-[04-08-2021 01:34:09] Checking gameFontSmall
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall
-[04-08-2021 01:34:09] Checking gameFont
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont
-[04-08-2021 01:34:09] Checking gameFont.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy
-[04-08-2021 01:34:09] Par: "folders/Fonts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy"
-[04-08-2021 01:34:09] Found Font: gameFont
-[04-08-2021 01:34:09] Checking gameFont.png
-[04-08-2021 01:34:09] Checking gameFont.old.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall
-[04-08-2021 01:34:09] Checking gameFontSmall.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy
-[04-08-2021 01:34:09] Par: "folders/Fonts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy"
-[04-08-2021 01:34:09] Found Font: gameFontSmall
-[04-08-2021 01:34:09] Checking gameFontSmall.png
-[04-08-2021 01:34:09] Checking gameFontSmall.old.png
-[04-08-2021 01:34:09] Checking gameFont.png
-[04-08-2021 01:34:09] Checking gameFont.old.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/notes
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects
-[04-08-2021 01:34:09] Checking oSpawner
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner
-[04-08-2021 01:34:09] Checking oPlayer
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer
-[04-08-2021 01:34:09] Checking oMenu
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu
-[04-08-2021 01:34:09] Checking oFire
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire
-[04-08-2021 01:34:09] Checking oEnemy
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy
-[04-08-2021 01:34:09] Checking oBullet
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking Other_0.gml
-[04-08-2021 01:34:09] Checking oBullet.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy"
-[04-08-2021 01:34:09] Found Object: oBullet
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Checking Collision_oEnemy.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking oEnemy.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy"
-[04-08-2021 01:34:09] Found Object: oEnemy
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Checking Collision_oPlayer.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking oFire.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy"
-[04-08-2021 01:34:09] Found Object: oFire
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking oMenu.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy"
-[04-08-2021 01:34:09] Found Object: oMenu
-[04-08-2021 01:34:09] Checking KeyPress_32.gml
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking oPlayer.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy"
-[04-08-2021 01:34:09] Found Object: oPlayer
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner
-[04-08-2021 01:34:09] Checking Step_0.gml
-[04-08-2021 01:34:09] Checking oSpawner.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy
-[04-08-2021 01:34:09] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy"
-[04-08-2021 01:34:09] Found Object: oSpawner
-[04-08-2021 01:34:09] Checking KeyPress_82.gml
-[04-08-2021 01:34:09] Checking KeyPress_27.gml
-[04-08-2021 01:34:09] Checking Draw_0.gml
-[04-08-2021 01:34:09] Checking Create_0.gml
-[04-08-2021 01:34:09] Checking CleanUp_0.gml
-[04-08-2021 01:34:09] Checking Alarm_1.gml
-[04-08-2021 01:34:09] Checking Alarm_0.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options
-[04-08-2021 01:34:09] Checking windows
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows
-[04-08-2021 01:34:09] Checking main
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main
-[04-08-2021 01:34:09] Checking html5
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5
-[04-08-2021 01:34:09] Checking options_html5.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5/options_html5.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5/options_html5.yy
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main
-[04-08-2021 01:34:09] Checking options_main.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main/options_main.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main/options_main.yy
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows
-[04-08-2021 01:34:09] Checking options_windows.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows/options_windows.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows/options_windows.yy
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/paths
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms
-[04-08-2021 01:34:09] Checking Menu
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu
-[04-08-2021 01:34:09] Checking Game
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game
-[04-08-2021 01:34:09] Checking Game.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy
-[04-08-2021 01:34:09] Par: "folders/Rooms" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy"
-[04-08-2021 01:34:09] Found Room: Game
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu
-[04-08-2021 01:34:09] Checking Menu.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy
-[04-08-2021 01:34:09] Par: "folders/Rooms" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy"
-[04-08-2021 01:34:09] Found Room: Menu
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts
-[04-08-2021 01:34:09] Checking init
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init
-[04-08-2021 01:34:09] Checking init.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy
-[04-08-2021 01:34:09] Par: "folders/Scripts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy"
-[04-08-2021 01:34:09] Found Script: init
-[04-08-2021 01:34:09] Checking init.gml
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sequences
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/shaders
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sounds
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites
-[04-08-2021 01:34:09] Checking test
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test
-[04-08-2021 01:34:09] Checking S_UFO
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO
-[04-08-2021 01:34:09] Checking S_hitdino
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino
-[04-08-2021 01:34:09] Checking S_hitClaw
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw
-[04-08-2021 01:34:09] Checking S_fire
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire
-[04-08-2021 01:34:09] Checking S_DogetothemOOn
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn
-[04-08-2021 01:34:09] Checking S_DogeBullet
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet
-[04-08-2021 01:34:09] Checking S_Background
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background
-[04-08-2021 01:34:09] Checking SStars
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars
-[04-08-2021 01:34:09] Checking sPlayer
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer
-[04-08-2021 01:34:09] Checking sMenu
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu
-[04-08-2021 01:34:09] Checking SHitbitcoin
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin
-[04-08-2021 01:34:09] Checking sEnemy
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy
-[04-08-2021 01:34:09] Checking SEarth
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth
-[04-08-2021 01:34:09] Checking Sdogemoon
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon
-[04-08-2021 01:34:09] Checking sDoge
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge
-[04-08-2021 01:34:09] Checking SClawUfo
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo
-[04-08-2021 01:34:09] Checking sBullet
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet
-[04-08-2021 01:34:09] Checking sBitcoin
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin
-[04-08-2021 01:34:09] Checking s69
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69
-[04-08-2021 01:34:09] Checking s420
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420
-[04-08-2021 01:34:09] Checking Naruto
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto
-[04-08-2021 01:34:09] Checking Naruto.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy"
-[04-08-2021 01:34:09] Found Sprite: Naruto
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers
-[04-08-2021 01:34:09] Checking ea9e61ca-dbc2-436f-b28c-d47ebb0269fe.png
-[04-08-2021 01:34:09] Checking 7c119150-a066-4663-b042-8ef9bbaf02b1.png
-[04-08-2021 01:34:09] Checking 334ece73-9d7d-4f84-a316-1efadd08916d.png
-[04-08-2021 01:34:09] Checking 2d0355e9-a294-49d4-90e0-f0d73208ca12.png
-[04-08-2021 01:34:09] Checking 2be8ee23-5de0-4d50-81fd-d79d26f6f0ff.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers
-[04-08-2021 01:34:09] Checking ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
-[04-08-2021 01:34:09] Checking 7c119150-a066-4663-b042-8ef9bbaf02b1
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/7c119150-a066-4663-b042-8ef9bbaf02b1
-[04-08-2021 01:34:09] Checking 334ece73-9d7d-4f84-a316-1efadd08916d
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/334ece73-9d7d-4f84-a316-1efadd08916d
-[04-08-2021 01:34:09] Checking 2d0355e9-a294-49d4-90e0-f0d73208ca12
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2d0355e9-a294-49d4-90e0-f0d73208ca12
-[04-08-2021 01:34:09] Checking 2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
-[04-08-2021 01:34:09] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2d0355e9-a294-49d4-90e0-f0d73208ca12
-[04-08-2021 01:34:09] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/334ece73-9d7d-4f84-a316-1efadd08916d
-[04-08-2021 01:34:09] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/7c119150-a066-4663-b042-8ef9bbaf02b1
-[04-08-2021 01:34:09] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
-[04-08-2021 01:34:09] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420
-[04-08-2021 01:34:09] Checking s420.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy"
-[04-08-2021 01:34:09] Found Sprite: s420
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers
-[04-08-2021 01:34:09] Checking d2287ab0-84ba-4ebb-a912-2c9fd10e4080.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers
-[04-08-2021 01:34:09] Checking d2287ab0-84ba-4ebb-a912-2c9fd10e4080
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers/d2287ab0-84ba-4ebb-a912-2c9fd10e4080
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers/d2287ab0-84ba-4ebb-a912-2c9fd10e4080
-[04-08-2021 01:34:09] Checking b6b4a304-5cf5-4ffd-b5df-cf6319977559.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69
-[04-08-2021 01:34:09] Checking s69.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy"
-[04-08-2021 01:34:09] Found Sprite: s69
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers
-[04-08-2021 01:34:09] Checking 4a6a73cd-b094-42f5-8a39-c21e731fb13a.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers
-[04-08-2021 01:34:09] Checking 4a6a73cd-b094-42f5-8a39-c21e731fb13a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers/4a6a73cd-b094-42f5-8a39-c21e731fb13a
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers/4a6a73cd-b094-42f5-8a39-c21e731fb13a
-[04-08-2021 01:34:09] Checking 2efc97bc-ec05-4679-8ddb-ccfefed31e6a.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin
-[04-08-2021 01:34:09] Checking sBitcoin.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy"
-[04-08-2021 01:34:09] Found Sprite: sBitcoin
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers
-[04-08-2021 01:34:09] Checking f76b8429-2833-4614-b285-640a26c803c3.png
-[04-08-2021 01:34:09] Checking e512cf4a-b6e6-4219-a391-533b35f8ec1a.png
-[04-08-2021 01:34:09] Checking d88d97c5-fc10-4a51-8e5f-c99bb47bdfce.png
-[04-08-2021 01:34:09] Checking a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f.png
-[04-08-2021 01:34:09] Checking 87cd5dfd-8a96-4d12-85a3-05350f76225c.png
-[04-08-2021 01:34:09] Checking 837c4f76-12b1-4ffa-9d6d-d05d76e3ff04.png
-[04-08-2021 01:34:09] Checking 7fa058e5-47cc-4242-81d8-52f4b359a63e.png
-[04-08-2021 01:34:09] Checking 4528d794-b70f-4cc6-bf63-73ff1e8e1778.png
-[04-08-2021 01:34:09] Checking 2d91e149-831d-43ac-bb22-10d8d9e41562.png
-[04-08-2021 01:34:09] Checking 0be85f28-8606-4c5b-ad11-0474863e240a.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers
-[04-08-2021 01:34:09] Checking f76b8429-2833-4614-b285-640a26c803c3
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/f76b8429-2833-4614-b285-640a26c803c3
-[04-08-2021 01:34:09] Checking e512cf4a-b6e6-4219-a391-533b35f8ec1a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/e512cf4a-b6e6-4219-a391-533b35f8ec1a
-[04-08-2021 01:34:09] Checking d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
-[04-08-2021 01:34:09] Checking a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
-[04-08-2021 01:34:09] Checking 87cd5dfd-8a96-4d12-85a3-05350f76225c
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/87cd5dfd-8a96-4d12-85a3-05350f76225c
-[04-08-2021 01:34:09] Checking 837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
-[04-08-2021 01:34:09] Checking 7fa058e5-47cc-4242-81d8-52f4b359a63e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/7fa058e5-47cc-4242-81d8-52f4b359a63e
-[04-08-2021 01:34:09] Checking 4528d794-b70f-4cc6-bf63-73ff1e8e1778
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/4528d794-b70f-4cc6-bf63-73ff1e8e1778
-[04-08-2021 01:34:09] Checking 2d91e149-831d-43ac-bb22-10d8d9e41562
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/2d91e149-831d-43ac-bb22-10d8d9e41562
-[04-08-2021 01:34:09] Checking 0be85f28-8606-4c5b-ad11-0474863e240a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/0be85f28-8606-4c5b-ad11-0474863e240a
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/0be85f28-8606-4c5b-ad11-0474863e240a
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/2d91e149-831d-43ac-bb22-10d8d9e41562
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/4528d794-b70f-4cc6-bf63-73ff1e8e1778
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/7fa058e5-47cc-4242-81d8-52f4b359a63e
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/87cd5dfd-8a96-4d12-85a3-05350f76225c
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/e512cf4a-b6e6-4219-a391-533b35f8ec1a
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/f76b8429-2833-4614-b285-640a26c803c3
-[04-08-2021 01:34:09] Checking 804a2114-7e85-4201-9388-1293538e4687.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers
-[04-08-2021 01:34:09] Checking b5719cbc-4838-4f3c-b8c7-8d081b0e2f71.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers
-[04-08-2021 01:34:09] Checking b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers/b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers/b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
-[04-08-2021 01:34:09] Checking b29ae586-17c1-44f8-94a7-682c2b94c477.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo
-[04-08-2021 01:34:09] Checking SClawUfo.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy"
-[04-08-2021 01:34:09] Found Sprite: SClawUfo
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers
-[04-08-2021 01:34:09] Checking ca49c47e-6245-46e3-ad1e-8097ce40119e.png
-[04-08-2021 01:34:09] Checking b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301.png
-[04-08-2021 01:34:09] Checking afb004ac-845d-4585-a8f3-d7216358cd7e.png
-[04-08-2021 01:34:09] Checking aa91d999-2d9f-434b-bcc5-9c9f1f602228.png
-[04-08-2021 01:34:09] Checking 992b2245-391d-41bd-9cd5-876a27187265.png
-[04-08-2021 01:34:09] Checking 9384ca2c-1137-47a0-be7d-7330856107f3.png
-[04-08-2021 01:34:09] Checking 8afa1414-9461-4b6b-be67-8d2bee790205.png
-[04-08-2021 01:34:09] Checking 866cd59c-31e7-4571-8861-8a01d38e4fe4.png
-[04-08-2021 01:34:09] Checking 1a79b56c-5f4f-49fe-9713-0c352755ef33.png
-[04-08-2021 01:34:09] Checking 18aaf284-c787-4823-bef2-ea3be557861d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers
-[04-08-2021 01:34:09] Checking ca49c47e-6245-46e3-ad1e-8097ce40119e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/ca49c47e-6245-46e3-ad1e-8097ce40119e
-[04-08-2021 01:34:09] Checking b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
-[04-08-2021 01:34:09] Checking afb004ac-845d-4585-a8f3-d7216358cd7e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/afb004ac-845d-4585-a8f3-d7216358cd7e
-[04-08-2021 01:34:09] Checking aa91d999-2d9f-434b-bcc5-9c9f1f602228
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/aa91d999-2d9f-434b-bcc5-9c9f1f602228
-[04-08-2021 01:34:09] Checking 992b2245-391d-41bd-9cd5-876a27187265
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/992b2245-391d-41bd-9cd5-876a27187265
-[04-08-2021 01:34:09] Checking 9384ca2c-1137-47a0-be7d-7330856107f3
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/9384ca2c-1137-47a0-be7d-7330856107f3
-[04-08-2021 01:34:09] Checking 8afa1414-9461-4b6b-be67-8d2bee790205
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/8afa1414-9461-4b6b-be67-8d2bee790205
-[04-08-2021 01:34:09] Checking 866cd59c-31e7-4571-8861-8a01d38e4fe4
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/866cd59c-31e7-4571-8861-8a01d38e4fe4
-[04-08-2021 01:34:09] Checking 1a79b56c-5f4f-49fe-9713-0c352755ef33
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/1a79b56c-5f4f-49fe-9713-0c352755ef33
-[04-08-2021 01:34:09] Checking 18aaf284-c787-4823-bef2-ea3be557861d
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/18aaf284-c787-4823-bef2-ea3be557861d
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/18aaf284-c787-4823-bef2-ea3be557861d
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/1a79b56c-5f4f-49fe-9713-0c352755ef33
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/866cd59c-31e7-4571-8861-8a01d38e4fe4
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/8afa1414-9461-4b6b-be67-8d2bee790205
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/9384ca2c-1137-47a0-be7d-7330856107f3
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/992b2245-391d-41bd-9cd5-876a27187265
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/aa91d999-2d9f-434b-bcc5-9c9f1f602228
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/afb004ac-845d-4585-a8f3-d7216358cd7e
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/ca49c47e-6245-46e3-ad1e-8097ce40119e
-[04-08-2021 01:34:09] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge
-[04-08-2021 01:34:09] Checking sDoge.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy"
-[04-08-2021 01:34:09] Found Sprite: sDoge
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers
-[04-08-2021 01:34:09] Checking efe0f39e-aa93-494b-b63d-ff1efa31979f.png
-[04-08-2021 01:34:09] Checking dd90173b-2c74-40f0-bd97-67b5fb40875a.png
-[04-08-2021 01:34:09] Checking db927afb-93ec-4a2a-98c7-13e1961f828f.png
-[04-08-2021 01:34:09] Checking bbcdd543-f2b7-45e0-ae92-8735ee2eaad5.png
-[04-08-2021 01:34:09] Checking 8d6a7328-2eca-4c0d-838a-ec5669db355a.png
-[04-08-2021 01:34:09] Checking 88f4df9e-fdbb-40d8-874d-df0b10d44140.png
-[04-08-2021 01:34:09] Checking 4eaa1dab-da50-4bce-b59c-e2a5f93824e4.png
-[04-08-2021 01:34:09] Checking 4c609668-2ae5-4718-b9f5-662599c4c34e.png
-[04-08-2021 01:34:09] Checking 2c231e65-342b-4586-98c5-cb8b7ef5ad11.png
-[04-08-2021 01:34:09] Checking 07da4446-50b6-4ae0-ab66-373fc8a331b2.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers
-[04-08-2021 01:34:09] Checking efe0f39e-aa93-494b-b63d-ff1efa31979f
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/efe0f39e-aa93-494b-b63d-ff1efa31979f
-[04-08-2021 01:34:09] Checking dd90173b-2c74-40f0-bd97-67b5fb40875a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/dd90173b-2c74-40f0-bd97-67b5fb40875a
-[04-08-2021 01:34:09] Checking db927afb-93ec-4a2a-98c7-13e1961f828f
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/db927afb-93ec-4a2a-98c7-13e1961f828f
-[04-08-2021 01:34:09] Checking bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
-[04-08-2021 01:34:09] Checking 8d6a7328-2eca-4c0d-838a-ec5669db355a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/8d6a7328-2eca-4c0d-838a-ec5669db355a
-[04-08-2021 01:34:09] Checking 88f4df9e-fdbb-40d8-874d-df0b10d44140
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/88f4df9e-fdbb-40d8-874d-df0b10d44140
-[04-08-2021 01:34:09] Checking 4eaa1dab-da50-4bce-b59c-e2a5f93824e4
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4eaa1dab-da50-4bce-b59c-e2a5f93824e4
-[04-08-2021 01:34:09] Checking 4c609668-2ae5-4718-b9f5-662599c4c34e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4c609668-2ae5-4718-b9f5-662599c4c34e
-[04-08-2021 01:34:09] Checking 2c231e65-342b-4586-98c5-cb8b7ef5ad11
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/2c231e65-342b-4586-98c5-cb8b7ef5ad11
-[04-08-2021 01:34:09] Checking 07da4446-50b6-4ae0-ab66-373fc8a331b2
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/07da4446-50b6-4ae0-ab66-373fc8a331b2
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/07da4446-50b6-4ae0-ab66-373fc8a331b2
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/2c231e65-342b-4586-98c5-cb8b7ef5ad11
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4c609668-2ae5-4718-b9f5-662599c4c34e
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4eaa1dab-da50-4bce-b59c-e2a5f93824e4
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/88f4df9e-fdbb-40d8-874d-df0b10d44140
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/8d6a7328-2eca-4c0d-838a-ec5669db355a
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/db927afb-93ec-4a2a-98c7-13e1961f828f
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/dd90173b-2c74-40f0-bd97-67b5fb40875a
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/efe0f39e-aa93-494b-b63d-ff1efa31979f
-[04-08-2021 01:34:09] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon
-[04-08-2021 01:34:09] Checking Sdogemoon.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy"
-[04-08-2021 01:34:09] Found Sprite: Sdogemoon
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers
-[04-08-2021 01:34:09] Checking f45e9852-a2aa-4331-a055-d9e5fa21640d.png
-[04-08-2021 01:34:09] Checking e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d.png
-[04-08-2021 01:34:09] Checking c502d256-81f3-4df8-99f6-dc8fee392d76.png
-[04-08-2021 01:34:09] Checking ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f.png
-[04-08-2021 01:34:09] Checking a03af246-617a-4fd1-af01-06c5d0d31185.png
-[04-08-2021 01:34:09] Checking 9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8.png
-[04-08-2021 01:34:09] Checking 944ebb8f-4c64-4d04-af0d-3af40b5564b9.png
-[04-08-2021 01:34:09] Checking 40306cd4-6267-41cc-a77d-bda3919a00f7.png
-[04-08-2021 01:34:09] Checking 2781ec24-9b6c-4aaf-be92-6d6eb026331f.png
-[04-08-2021 01:34:09] Checking 0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers
-[04-08-2021 01:34:09] Checking f45e9852-a2aa-4331-a055-d9e5fa21640d
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/f45e9852-a2aa-4331-a055-d9e5fa21640d
-[04-08-2021 01:34:09] Checking e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
-[04-08-2021 01:34:09] Checking c502d256-81f3-4df8-99f6-dc8fee392d76
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/c502d256-81f3-4df8-99f6-dc8fee392d76
-[04-08-2021 01:34:09] Checking ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
-[04-08-2021 01:34:09] Checking a03af246-617a-4fd1-af01-06c5d0d31185
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/a03af246-617a-4fd1-af01-06c5d0d31185
-[04-08-2021 01:34:09] Checking 9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
-[04-08-2021 01:34:09] Checking 944ebb8f-4c64-4d04-af0d-3af40b5564b9
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/944ebb8f-4c64-4d04-af0d-3af40b5564b9
-[04-08-2021 01:34:09] Checking 40306cd4-6267-41cc-a77d-bda3919a00f7
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/40306cd4-6267-41cc-a77d-bda3919a00f7
-[04-08-2021 01:34:09] Checking 2781ec24-9b6c-4aaf-be92-6d6eb026331f
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/2781ec24-9b6c-4aaf-be92-6d6eb026331f
-[04-08-2021 01:34:09] Checking 0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/2781ec24-9b6c-4aaf-be92-6d6eb026331f
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/40306cd4-6267-41cc-a77d-bda3919a00f7
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/944ebb8f-4c64-4d04-af0d-3af40b5564b9
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/a03af246-617a-4fd1-af01-06c5d0d31185
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/c502d256-81f3-4df8-99f6-dc8fee392d76
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/f45e9852-a2aa-4331-a055-d9e5fa21640d
-[04-08-2021 01:34:09] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth
-[04-08-2021 01:34:09] Checking SEarth.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy"
-[04-08-2021 01:34:09] Found Sprite: SEarth
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers
-[04-08-2021 01:34:09] Checking fb0d538f-7bba-4a00-b23a-0dd5d1e967a6.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers
-[04-08-2021 01:34:09] Checking fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers/fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers/fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
-[04-08-2021 01:34:09] Checking 93a9280a-1065-4f2a-a043-3c0a21dc6b7f.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy
-[04-08-2021 01:34:09] Checking sEnemy.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy"
-[04-08-2021 01:34:09] Found Sprite: sEnemy
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers
-[04-08-2021 01:34:09] Checking 216cc6a2-4a88-4222-a054-2f1354af3b72.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers
-[04-08-2021 01:34:09] Checking 216cc6a2-4a88-4222-a054-2f1354af3b72
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers/216cc6a2-4a88-4222-a054-2f1354af3b72
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers/216cc6a2-4a88-4222-a054-2f1354af3b72
-[04-08-2021 01:34:09] Checking 44801ec2-6bf8-461d-b610-88803f9b2815.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin
-[04-08-2021 01:34:09] Checking SHitbitcoin.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy"
-[04-08-2021 01:34:09] Found Sprite: SHitbitcoin
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers
-[04-08-2021 01:34:09] Checking fbd8bc47-cb9f-4f3a-b11a-563d21a17996.png
-[04-08-2021 01:34:09] Checking d2efc6b8-3eb9-45b9-a53c-e316acd9ed42.png
-[04-08-2021 01:34:09] Checking b3ab8f17-29ce-4751-b325-2efe42672587.png
-[04-08-2021 01:34:09] Checking 7eb34659-fe93-4d31-8202-f1d8bd6c2b08.png
-[04-08-2021 01:34:09] Checking 081c00f1-edc9-4aac-a1a1-8597ab44ed53.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers
-[04-08-2021 01:34:09] Checking fbd8bc47-cb9f-4f3a-b11a-563d21a17996
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/fbd8bc47-cb9f-4f3a-b11a-563d21a17996
-[04-08-2021 01:34:09] Checking d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
-[04-08-2021 01:34:09] Checking b3ab8f17-29ce-4751-b325-2efe42672587
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/b3ab8f17-29ce-4751-b325-2efe42672587
-[04-08-2021 01:34:09] Checking 7eb34659-fe93-4d31-8202-f1d8bd6c2b08
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/7eb34659-fe93-4d31-8202-f1d8bd6c2b08
-[04-08-2021 01:34:09] Checking 081c00f1-edc9-4aac-a1a1-8597ab44ed53
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/081c00f1-edc9-4aac-a1a1-8597ab44ed53
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/081c00f1-edc9-4aac-a1a1-8597ab44ed53
-[04-08-2021 01:34:09] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/7eb34659-fe93-4d31-8202-f1d8bd6c2b08
-[04-08-2021 01:34:09] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/b3ab8f17-29ce-4751-b325-2efe42672587
-[04-08-2021 01:34:09] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
-[04-08-2021 01:34:09] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/fbd8bc47-cb9f-4f3a-b11a-563d21a17996
-[04-08-2021 01:34:09] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu
-[04-08-2021 01:34:09] Checking sMenu.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy"
-[04-08-2021 01:34:09] Found Sprite: sMenu
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers
-[04-08-2021 01:34:09] Checking 001c1c7c-ae10-4876-9ab4-5b6db281da12.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers
-[04-08-2021 01:34:09] Checking 001c1c7c-ae10-4876-9ab4-5b6db281da12
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers/001c1c7c-ae10-4876-9ab4-5b6db281da12
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers/001c1c7c-ae10-4876-9ab4-5b6db281da12
-[04-08-2021 01:34:09] Checking 43b629fd-ab99-4b75-8ee2-ac55e7d9e88b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer
-[04-08-2021 01:34:09] Checking sPlayer.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy"
-[04-08-2021 01:34:09] Found Sprite: sPlayer
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers
-[04-08-2021 01:34:09] Checking 94312281-813e-4632-a7aa-450df24d5869.png
-[04-08-2021 01:34:09] Checking 6d956021-7137-4e8a-8444-761a1ab1d334.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers
-[04-08-2021 01:34:09] Checking 94312281-813e-4632-a7aa-450df24d5869
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/94312281-813e-4632-a7aa-450df24d5869
-[04-08-2021 01:34:09] Checking 6d956021-7137-4e8a-8444-761a1ab1d334
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/6d956021-7137-4e8a-8444-761a1ab1d334
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/6d956021-7137-4e8a-8444-761a1ab1d334
-[04-08-2021 01:34:09] Checking 4c0d55a5-9ce0-42b0-bc64-449915a82d57.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/94312281-813e-4632-a7aa-450df24d5869
-[04-08-2021 01:34:09] Checking 438416dd-8247-48a9-9f53-adf1c8a3a884.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars
-[04-08-2021 01:34:09] Checking SStars.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy"
-[04-08-2021 01:34:09] Found Sprite: SStars
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers
-[04-08-2021 01:34:09] Checking d5136dec-dab3-441c-8d29-8132d90b031b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers
-[04-08-2021 01:34:09] Checking d5136dec-dab3-441c-8d29-8132d90b031b
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers/d5136dec-dab3-441c-8d29-8132d90b031b
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers/d5136dec-dab3-441c-8d29-8132d90b031b
-[04-08-2021 01:34:09] Checking fdc52746-4cc5-49b9-9da6-e48fe6a714b2.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background
-[04-08-2021 01:34:09] Checking S_Background.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy"
-[04-08-2021 01:34:09] Found Sprite: S_Background
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers
-[04-08-2021 01:34:09] Checking c5b9b3a8-d233-4912-80f3-19f6517fa6f9.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers
-[04-08-2021 01:34:09] Checking c5b9b3a8-d233-4912-80f3-19f6517fa6f9
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers/c5b9b3a8-d233-4912-80f3-19f6517fa6f9
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers/c5b9b3a8-d233-4912-80f3-19f6517fa6f9
-[04-08-2021 01:34:09] Checking b95dd04b-c934-4c81-ba82-8675580036eb.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet
-[04-08-2021 01:34:09] Checking S_DogeBullet.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy"
-[04-08-2021 01:34:09] Found Sprite: S_DogeBullet
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers
-[04-08-2021 01:34:09] Checking e1510f2d-88b2-46a7-946b-253c05fea72a.png
-[04-08-2021 01:34:09] Checking 9bfa106a-dad9-4ca7-a274-245ece69f4c3.png
-[04-08-2021 01:34:09] Checking 8afb82e4-88cd-490a-8c43-e5630a929d6e.png
-[04-08-2021 01:34:09] Checking 63b70002-716c-4687-89f3-b04d315d06c5.png
-[04-08-2021 01:34:09] Checking 563ab123-06ae-4f51-8f60-52e28753c21c.png
-[04-08-2021 01:34:09] Checking 3c77cc8a-43cf-4135-8d24-312146e282e1.png
-[04-08-2021 01:34:09] Checking 3c19a150-0765-4484-b955-da29fb450813.png
-[04-08-2021 01:34:09] Checking 31eccc50-8f1a-4736-94a2-dbcd2c0c11d8.png
-[04-08-2021 01:34:09] Checking 280a6a2f-7a07-474c-a8ea-106e3b3d13b6.png
-[04-08-2021 01:34:09] Checking 0a123d96-62db-41e6-a9d5-e5a7500567f7.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers
-[04-08-2021 01:34:09] Checking e1510f2d-88b2-46a7-946b-253c05fea72a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/e1510f2d-88b2-46a7-946b-253c05fea72a
-[04-08-2021 01:34:09] Checking 9bfa106a-dad9-4ca7-a274-245ece69f4c3
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/9bfa106a-dad9-4ca7-a274-245ece69f4c3
-[04-08-2021 01:34:09] Checking 8afb82e4-88cd-490a-8c43-e5630a929d6e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/8afb82e4-88cd-490a-8c43-e5630a929d6e
-[04-08-2021 01:34:09] Checking 63b70002-716c-4687-89f3-b04d315d06c5
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/63b70002-716c-4687-89f3-b04d315d06c5
-[04-08-2021 01:34:09] Checking 563ab123-06ae-4f51-8f60-52e28753c21c
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/563ab123-06ae-4f51-8f60-52e28753c21c
-[04-08-2021 01:34:09] Checking 3c77cc8a-43cf-4135-8d24-312146e282e1
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c77cc8a-43cf-4135-8d24-312146e282e1
-[04-08-2021 01:34:09] Checking 3c19a150-0765-4484-b955-da29fb450813
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c19a150-0765-4484-b955-da29fb450813
-[04-08-2021 01:34:09] Checking 31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
-[04-08-2021 01:34:09] Checking 280a6a2f-7a07-474c-a8ea-106e3b3d13b6
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/280a6a2f-7a07-474c-a8ea-106e3b3d13b6
-[04-08-2021 01:34:09] Checking 0a123d96-62db-41e6-a9d5-e5a7500567f7
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/0a123d96-62db-41e6-a9d5-e5a7500567f7
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/0a123d96-62db-41e6-a9d5-e5a7500567f7
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/280a6a2f-7a07-474c-a8ea-106e3b3d13b6
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c19a150-0765-4484-b955-da29fb450813
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c77cc8a-43cf-4135-8d24-312146e282e1
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/563ab123-06ae-4f51-8f60-52e28753c21c
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/63b70002-716c-4687-89f3-b04d315d06c5
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/8afb82e4-88cd-490a-8c43-e5630a929d6e
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/9bfa106a-dad9-4ca7-a274-245ece69f4c3
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/e1510f2d-88b2-46a7-946b-253c05fea72a
-[04-08-2021 01:34:09] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn
-[04-08-2021 01:34:09] Checking S_DogetothemOOn.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy"
-[04-08-2021 01:34:09] Found Sprite: S_DogetothemOOn
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers
-[04-08-2021 01:34:09] Checking 415d676d-0afe-44ca-bc40-b5342ae1f5d7.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers
-[04-08-2021 01:34:09] Checking 415d676d-0afe-44ca-bc40-b5342ae1f5d7
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers/415d676d-0afe-44ca-bc40-b5342ae1f5d7
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers/415d676d-0afe-44ca-bc40-b5342ae1f5d7
-[04-08-2021 01:34:09] Checking c2b8180f-86e6-44e5-be33-7e58d94f947f.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire
-[04-08-2021 01:34:09] Checking S_fire.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy"
-[04-08-2021 01:34:09] Found Sprite: S_fire
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers
-[04-08-2021 01:34:09] Checking f1002945-b397-489b-b7d5-fbf0c7c3f44b.png
-[04-08-2021 01:34:09] Checking 85f2259f-dc88-4aff-9f55-a260209b1f05.png
-[04-08-2021 01:34:09] Checking 5323e0a7-8c10-48ed-8b36-cfb306a629ae.png
-[04-08-2021 01:34:09] Checking 4d81e710-504f-4f61-8b18-324f80c2cb58.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers
-[04-08-2021 01:34:09] Checking f1002945-b397-489b-b7d5-fbf0c7c3f44b
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/f1002945-b397-489b-b7d5-fbf0c7c3f44b
-[04-08-2021 01:34:09] Checking 85f2259f-dc88-4aff-9f55-a260209b1f05
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/85f2259f-dc88-4aff-9f55-a260209b1f05
-[04-08-2021 01:34:09] Checking 5323e0a7-8c10-48ed-8b36-cfb306a629ae
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/5323e0a7-8c10-48ed-8b36-cfb306a629ae
-[04-08-2021 01:34:09] Checking 4d81e710-504f-4f61-8b18-324f80c2cb58
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/4d81e710-504f-4f61-8b18-324f80c2cb58
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/4d81e710-504f-4f61-8b18-324f80c2cb58
-[04-08-2021 01:34:09] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/5323e0a7-8c10-48ed-8b36-cfb306a629ae
-[04-08-2021 01:34:09] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/85f2259f-dc88-4aff-9f55-a260209b1f05
-[04-08-2021 01:34:09] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/f1002945-b397-489b-b7d5-fbf0c7c3f44b
-[04-08-2021 01:34:09] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw
-[04-08-2021 01:34:09] Checking S_hitClaw.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy"
-[04-08-2021 01:34:09] Found Sprite: S_hitClaw
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers
-[04-08-2021 01:34:09] Checking f2e4779e-593e-4c33-bf2b-f6f7bba7b188.png
-[04-08-2021 01:34:09] Checking ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd.png
-[04-08-2021 01:34:09] Checking 9a80bc61-ffaf-4936-8843-2bc4c9143c54.png
-[04-08-2021 01:34:09] Checking 9181afbf-1f10-4b18-b09d-56fb8e00c161.png
-[04-08-2021 01:34:09] Checking 03f17521-79be-4862-a8e7-7c537f212b24.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers
-[04-08-2021 01:34:09] Checking f2e4779e-593e-4c33-bf2b-f6f7bba7b188
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/f2e4779e-593e-4c33-bf2b-f6f7bba7b188
-[04-08-2021 01:34:09] Checking ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
-[04-08-2021 01:34:09] Checking 9a80bc61-ffaf-4936-8843-2bc4c9143c54
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9a80bc61-ffaf-4936-8843-2bc4c9143c54
-[04-08-2021 01:34:09] Checking 9181afbf-1f10-4b18-b09d-56fb8e00c161
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9181afbf-1f10-4b18-b09d-56fb8e00c161
-[04-08-2021 01:34:09] Checking 03f17521-79be-4862-a8e7-7c537f212b24
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/03f17521-79be-4862-a8e7-7c537f212b24
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/03f17521-79be-4862-a8e7-7c537f212b24
-[04-08-2021 01:34:09] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9181afbf-1f10-4b18-b09d-56fb8e00c161
-[04-08-2021 01:34:09] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9a80bc61-ffaf-4936-8843-2bc4c9143c54
-[04-08-2021 01:34:09] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
-[04-08-2021 01:34:09] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/f2e4779e-593e-4c33-bf2b-f6f7bba7b188
-[04-08-2021 01:34:09] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino
-[04-08-2021 01:34:09] Checking S_hitdino.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy"
-[04-08-2021 01:34:09] Found Sprite: S_hitdino
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers
-[04-08-2021 01:34:09] Checking fe7e50b3-0a38-4854-851b-d1e15d871a90.png
-[04-08-2021 01:34:09] Checking eacd8dbf-ae14-44ab-980e-7d6e47e725b0.png
-[04-08-2021 01:34:09] Checking d7d9c42a-003b-408e-9066-0a162a81ee3a.png
-[04-08-2021 01:34:09] Checking 362904ad-bd9e-4f6e-b299-7077729c4a78.png
-[04-08-2021 01:34:09] Checking 2dcea00e-43cd-42b1-9479-924f52e49f10.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers
-[04-08-2021 01:34:09] Checking fe7e50b3-0a38-4854-851b-d1e15d871a90
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/fe7e50b3-0a38-4854-851b-d1e15d871a90
-[04-08-2021 01:34:09] Checking eacd8dbf-ae14-44ab-980e-7d6e47e725b0
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/eacd8dbf-ae14-44ab-980e-7d6e47e725b0
-[04-08-2021 01:34:09] Checking d7d9c42a-003b-408e-9066-0a162a81ee3a
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/d7d9c42a-003b-408e-9066-0a162a81ee3a
-[04-08-2021 01:34:09] Checking 362904ad-bd9e-4f6e-b299-7077729c4a78
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/362904ad-bd9e-4f6e-b299-7077729c4a78
-[04-08-2021 01:34:09] Checking 2dcea00e-43cd-42b1-9479-924f52e49f10
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/2dcea00e-43cd-42b1-9479-924f52e49f10
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/2dcea00e-43cd-42b1-9479-924f52e49f10
-[04-08-2021 01:34:09] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/362904ad-bd9e-4f6e-b299-7077729c4a78
-[04-08-2021 01:34:09] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/d7d9c42a-003b-408e-9066-0a162a81ee3a
-[04-08-2021 01:34:09] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/eacd8dbf-ae14-44ab-980e-7d6e47e725b0
-[04-08-2021 01:34:09] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/fe7e50b3-0a38-4854-851b-d1e15d871a90
-[04-08-2021 01:34:09] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO
-[04-08-2021 01:34:09] Checking S_UFO.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy"
-[04-08-2021 01:34:09] Found Sprite: S_UFO
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers
-[04-08-2021 01:34:09] Checking af1ee4ae-8bbe-499b-bcbe-15c4e320057e.png
-[04-08-2021 01:34:09] Checking 98a2bb87-7221-454f-b73f-0f2dc33894f5.png
-[04-08-2021 01:34:09] Checking 81594211-3f5c-4519-ab61-b7ef5804db13.png
-[04-08-2021 01:34:09] Checking 7824b201-5e2f-4614-b17f-368fa6e177bc.png
-[04-08-2021 01:34:09] Checking 37d21f23-90ed-4db6-83af-305de2074e97.png
-[04-08-2021 01:34:09] Checking 1dcea2fc-0093-4cd9-bbe6-99415cb7e270.png
-[04-08-2021 01:34:09] Checking 17520d2a-184d-4664-a12d-a2739362af64.png
-[04-08-2021 01:34:09] Checking 117d8c00-8379-4b14-8715-a91623d85cb2.png
-[04-08-2021 01:34:09] Checking 11273c92-a737-4cb7-b04a-a0f710e64f68.png
-[04-08-2021 01:34:09] Checking 0ed95835-2e4e-464a-b38b-a781001f5d0c.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers
-[04-08-2021 01:34:09] Checking af1ee4ae-8bbe-499b-bcbe-15c4e320057e
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/af1ee4ae-8bbe-499b-bcbe-15c4e320057e
-[04-08-2021 01:34:09] Checking 98a2bb87-7221-454f-b73f-0f2dc33894f5
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/98a2bb87-7221-454f-b73f-0f2dc33894f5
-[04-08-2021 01:34:09] Checking 81594211-3f5c-4519-ab61-b7ef5804db13
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/81594211-3f5c-4519-ab61-b7ef5804db13
-[04-08-2021 01:34:09] Checking 7824b201-5e2f-4614-b17f-368fa6e177bc
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/7824b201-5e2f-4614-b17f-368fa6e177bc
-[04-08-2021 01:34:09] Checking 37d21f23-90ed-4db6-83af-305de2074e97
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/37d21f23-90ed-4db6-83af-305de2074e97
-[04-08-2021 01:34:09] Checking 1dcea2fc-0093-4cd9-bbe6-99415cb7e270
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/1dcea2fc-0093-4cd9-bbe6-99415cb7e270
-[04-08-2021 01:34:09] Checking 17520d2a-184d-4664-a12d-a2739362af64
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/17520d2a-184d-4664-a12d-a2739362af64
-[04-08-2021 01:34:09] Checking 117d8c00-8379-4b14-8715-a91623d85cb2
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/117d8c00-8379-4b14-8715-a91623d85cb2
-[04-08-2021 01:34:09] Checking 11273c92-a737-4cb7-b04a-a0f710e64f68
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/11273c92-a737-4cb7-b04a-a0f710e64f68
-[04-08-2021 01:34:09] Checking 0ed95835-2e4e-464a-b38b-a781001f5d0c
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/0ed95835-2e4e-464a-b38b-a781001f5d0c
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/0ed95835-2e4e-464a-b38b-a781001f5d0c
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/11273c92-a737-4cb7-b04a-a0f710e64f68
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/117d8c00-8379-4b14-8715-a91623d85cb2
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/17520d2a-184d-4664-a12d-a2739362af64
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/1dcea2fc-0093-4cd9-bbe6-99415cb7e270
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/37d21f23-90ed-4db6-83af-305de2074e97
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/7824b201-5e2f-4614-b17f-368fa6e177bc
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/81594211-3f5c-4519-ab61-b7ef5804db13
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/98a2bb87-7221-454f-b73f-0f2dc33894f5
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/af1ee4ae-8bbe-499b-bcbe-15c4e320057e
-[04-08-2021 01:34:09] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test
-[04-08-2021 01:34:09] Checking test.yy
-[04-08-2021 01:34:09] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy
-[04-08-2021 01:34:09] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy
-[04-08-2021 01:34:09] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy"
-[04-08-2021 01:34:09] Found Sprite: test
-[04-08-2021 01:34:09] Checking layers
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers
-[04-08-2021 01:34:09] Checking 32b079d5-2be9-4b46-ab31-0e6fdd3f4eab.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers
-[04-08-2021 01:34:09] Checking 32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
-[04-08-2021 01:34:09] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers/32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers/32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
-[04-08-2021 01:34:09] Checking f02baabc-197e-40d6-9388-23d425fe5cd3.png
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/tilesets
-[04-08-2021 01:34:09] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/timelines
-[04-08-2021 01:34:09] Moving files to trash...
-[04-08-2021 01:34:09] Files yeeted successfully!
-[04-08-2021 01:34:09] Generating YYP...
-[04-08-2021 01:34:09] dogetothemoon.yyp created successfully!
+[04-08-2021 22:10:48] Initialized GameMaker Project: dogetothemoon.yyp
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/animcurves
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/datafiles
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/extensions
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts
+[04-08-2021 22:10:48] Checking gameFontSmall
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall
+[04-08-2021 22:10:48] Checking gameFont
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont
+[04-08-2021 22:10:48] Checking gameFont.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy
+[04-08-2021 22:10:48] Par: "folders/Fonts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFont/gameFont.yy"
+[04-08-2021 22:10:48] Found Font: gameFont
+[04-08-2021 22:10:48] Checking gameFont.png
+[04-08-2021 22:10:48] Checking gameFont.old.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall
+[04-08-2021 22:10:48] Checking gameFontSmall.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy
+[04-08-2021 22:10:48] Par: "folders/Fonts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/fonts/gameFontSmall/gameFontSmall.yy"
+[04-08-2021 22:10:48] Found Font: gameFontSmall
+[04-08-2021 22:10:48] Checking gameFontSmall.png
+[04-08-2021 22:10:48] Checking gameFontSmall.old.png
+[04-08-2021 22:10:48] Checking gameFont.png
+[04-08-2021 22:10:48] Checking gameFont.old.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/notes
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects
+[04-08-2021 22:10:48] Checking sDogeText
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/sDogeText
+[04-08-2021 22:10:48] Checking oSpawner
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner
+[04-08-2021 22:10:48] Checking oPlayer
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer
+[04-08-2021 22:10:48] Checking oMenu
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu
+[04-08-2021 22:10:48] Checking oFire
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire
+[04-08-2021 22:10:48] Checking oEnemy
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy
+[04-08-2021 22:10:48] Checking oDogeIcon
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oDogeIcon
+[04-08-2021 22:10:48] Checking oBullet
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking Other_0.gml
+[04-08-2021 22:10:48] Checking oBullet.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oBullet/oBullet.yy"
+[04-08-2021 22:10:48] Found Object: oBullet
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Checking Collision_oEnemy.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oDogeIcon
+[04-08-2021 22:10:48] Checking oDogeIcon.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oDogeIcon/oDogeIcon.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oDogeIcon/oDogeIcon.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oDogeIcon/oDogeIcon.yy"
+[04-08-2021 22:10:48] Found Object: oDogeIcon
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Checking Alarm_0.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking oEnemy.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oEnemy/oEnemy.yy"
+[04-08-2021 22:10:48] Found Object: oEnemy
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Checking Collision_oPlayer.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking oFire.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oFire/oFire.yy"
+[04-08-2021 22:10:48] Found Object: oFire
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking oMenu.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oMenu/oMenu.yy"
+[04-08-2021 22:10:48] Found Object: oMenu
+[04-08-2021 22:10:48] Checking KeyPress_32.gml
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking oPlayer.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oPlayer/oPlayer.yy"
+[04-08-2021 22:10:48] Found Object: oPlayer
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner
+[04-08-2021 22:10:48] Checking Step_0.gml
+[04-08-2021 22:10:48] Checking oSpawner.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/oSpawner/oSpawner.yy"
+[04-08-2021 22:10:48] Found Object: oSpawner
+[04-08-2021 22:10:48] Checking KeyPress_82.gml
+[04-08-2021 22:10:48] Checking KeyPress_27.gml
+[04-08-2021 22:10:48] Checking Draw_0.gml
+[04-08-2021 22:10:48] Checking Create_0.gml
+[04-08-2021 22:10:48] Checking CleanUp_0.gml
+[04-08-2021 22:10:48] Checking Alarm_1.gml
+[04-08-2021 22:10:48] Checking Alarm_0.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/sDogeText
+[04-08-2021 22:10:48] Checking sDogeText.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/sDogeText/sDogeText.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/sDogeText/sDogeText.yy
+[04-08-2021 22:10:48] Par: "folders/Objects" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/objects/sDogeText/sDogeText.yy"
+[04-08-2021 22:10:48] Found Object: sDogeText
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options
+[04-08-2021 22:10:48] Checking windows
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows
+[04-08-2021 22:10:48] Checking main
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main
+[04-08-2021 22:10:48] Checking html5
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5
+[04-08-2021 22:10:48] Checking options_html5.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5/options_html5.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/html5/options_html5.yy
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main
+[04-08-2021 22:10:48] Checking options_main.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main/options_main.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/main/options_main.yy
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows
+[04-08-2021 22:10:48] Checking options_windows.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows/options_windows.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/options/windows/options_windows.yy
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/paths
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms
+[04-08-2021 22:10:48] Checking Menu
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu
+[04-08-2021 22:10:48] Checking Game
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game
+[04-08-2021 22:10:48] Checking Game.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy
+[04-08-2021 22:10:48] Par: "folders/Rooms" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Game/Game.yy"
+[04-08-2021 22:10:48] Found Room: Game
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu
+[04-08-2021 22:10:48] Checking Menu.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy
+[04-08-2021 22:10:48] Par: "folders/Rooms" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/rooms/Menu/Menu.yy"
+[04-08-2021 22:10:48] Found Room: Menu
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts
+[04-08-2021 22:10:48] Checking init
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init
+[04-08-2021 22:10:48] Checking init.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy
+[04-08-2021 22:10:48] Par: "folders/Scripts" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/scripts/init/init.yy"
+[04-08-2021 22:10:48] Found Script: init
+[04-08-2021 22:10:48] Checking init.gml
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sequences
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/shaders
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sounds
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites
+[04-08-2021 22:10:48] Checking test
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test
+[04-08-2021 22:10:48] Checking S_UFO
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO
+[04-08-2021 22:10:48] Checking S_hitdino
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino
+[04-08-2021 22:10:48] Checking S_hitClaw
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw
+[04-08-2021 22:10:48] Checking S_fire
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire
+[04-08-2021 22:10:48] Checking S_DogetothemOOn
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn
+[04-08-2021 22:10:48] Checking S_DogeBullet
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet
+[04-08-2021 22:10:48] Checking S_Background
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background
+[04-08-2021 22:10:48] Checking SStars
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars
+[04-08-2021 22:10:48] Checking sPlayer
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer
+[04-08-2021 22:10:48] Checking sMenu
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu
+[04-08-2021 22:10:48] Checking SHitbitcoin
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin
+[04-08-2021 22:10:48] Checking sEnemy
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy
+[04-08-2021 22:10:48] Checking SEarth
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth
+[04-08-2021 22:10:48] Checking Sdogemoon
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon
+[04-08-2021 22:10:48] Checking sDoge
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge
+[04-08-2021 22:10:48] Checking SClawUfo
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo
+[04-08-2021 22:10:48] Checking sBullet
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet
+[04-08-2021 22:10:48] Checking sBitcoin
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin
+[04-08-2021 22:10:48] Checking s69
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69
+[04-08-2021 22:10:48] Checking s420
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420
+[04-08-2021 22:10:48] Checking naruto_run
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run
+[04-08-2021 22:10:48] Checking Naruto
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto
+[04-08-2021 22:10:48] Checking Naruto.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/Naruto.yy"
+[04-08-2021 22:10:48] Found Sprite: Naruto
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers
+[04-08-2021 22:10:48] Checking ea9e61ca-dbc2-436f-b28c-d47ebb0269fe.png
+[04-08-2021 22:10:48] Checking 7c119150-a066-4663-b042-8ef9bbaf02b1.png
+[04-08-2021 22:10:48] Checking 334ece73-9d7d-4f84-a316-1efadd08916d.png
+[04-08-2021 22:10:48] Checking 2d0355e9-a294-49d4-90e0-f0d73208ca12.png
+[04-08-2021 22:10:48] Checking 2be8ee23-5de0-4d50-81fd-d79d26f6f0ff.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers
+[04-08-2021 22:10:48] Checking ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
+[04-08-2021 22:10:48] Checking 7c119150-a066-4663-b042-8ef9bbaf02b1
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/7c119150-a066-4663-b042-8ef9bbaf02b1
+[04-08-2021 22:10:48] Checking 334ece73-9d7d-4f84-a316-1efadd08916d
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/334ece73-9d7d-4f84-a316-1efadd08916d
+[04-08-2021 22:10:48] Checking 2d0355e9-a294-49d4-90e0-f0d73208ca12
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2d0355e9-a294-49d4-90e0-f0d73208ca12
+[04-08-2021 22:10:48] Checking 2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2be8ee23-5de0-4d50-81fd-d79d26f6f0ff
+[04-08-2021 22:10:48] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/2d0355e9-a294-49d4-90e0-f0d73208ca12
+[04-08-2021 22:10:48] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/334ece73-9d7d-4f84-a316-1efadd08916d
+[04-08-2021 22:10:48] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/7c119150-a066-4663-b042-8ef9bbaf02b1
+[04-08-2021 22:10:48] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Naruto/layers/ea9e61ca-dbc2-436f-b28c-d47ebb0269fe
+[04-08-2021 22:10:48] Checking 1ff589d8-947f-4938-a2fe-e16c4cf0bd28.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run
+[04-08-2021 22:10:48] Checking naruto_run.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/naruto_run.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/naruto_run.yy
+[04-08-2021 22:10:48] ROOT found, not added.
+[04-08-2021 22:10:48] Par: "folders" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/naruto_run.yy"
+[04-08-2021 22:10:48] Found Sprite: naruto_run
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers
+[04-08-2021 22:10:48] Checking a4977c76-72c4-4878-ad69-fc4b98274a22.png
+[04-08-2021 22:10:48] Checking 7d48d0a0-cd61-43f6-96d7-d51df678332f.png
+[04-08-2021 22:10:48] Checking 6966ed3f-46b7-4405-bc53-27802bd79646.png
+[04-08-2021 22:10:48] Checking 69005942-88bb-461c-bf6f-2801d79caf26.png
+[04-08-2021 22:10:48] Checking 639c6266-1d97-404f-920b-498647b16ffe.png
+[04-08-2021 22:10:48] Checking 375c4462-3cfe-404c-9856-63e572b033f3.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers
+[04-08-2021 22:10:48] Checking a4977c76-72c4-4878-ad69-fc4b98274a22
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/a4977c76-72c4-4878-ad69-fc4b98274a22
+[04-08-2021 22:10:48] Checking 7d48d0a0-cd61-43f6-96d7-d51df678332f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/7d48d0a0-cd61-43f6-96d7-d51df678332f
+[04-08-2021 22:10:48] Checking 6966ed3f-46b7-4405-bc53-27802bd79646
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/6966ed3f-46b7-4405-bc53-27802bd79646
+[04-08-2021 22:10:48] Checking 69005942-88bb-461c-bf6f-2801d79caf26
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/69005942-88bb-461c-bf6f-2801d79caf26
+[04-08-2021 22:10:48] Checking 639c6266-1d97-404f-920b-498647b16ffe
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/639c6266-1d97-404f-920b-498647b16ffe
+[04-08-2021 22:10:48] Checking 375c4462-3cfe-404c-9856-63e572b033f3
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/375c4462-3cfe-404c-9856-63e572b033f3
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/375c4462-3cfe-404c-9856-63e572b033f3
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/639c6266-1d97-404f-920b-498647b16ffe
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/69005942-88bb-461c-bf6f-2801d79caf26
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/6966ed3f-46b7-4405-bc53-27802bd79646
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/7d48d0a0-cd61-43f6-96d7-d51df678332f
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/naruto_run/layers/a4977c76-72c4-4878-ad69-fc4b98274a22
+[04-08-2021 22:10:48] Checking e03dbcb2-1044-4680-a1ea-3dd724cf6be7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420
+[04-08-2021 22:10:48] Checking s420.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/s420.yy"
+[04-08-2021 22:10:48] Found Sprite: s420
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers
+[04-08-2021 22:10:48] Checking d2287ab0-84ba-4ebb-a912-2c9fd10e4080.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers
+[04-08-2021 22:10:48] Checking d2287ab0-84ba-4ebb-a912-2c9fd10e4080
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers/d2287ab0-84ba-4ebb-a912-2c9fd10e4080
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s420/layers/d2287ab0-84ba-4ebb-a912-2c9fd10e4080
+[04-08-2021 22:10:48] Checking b6b4a304-5cf5-4ffd-b5df-cf6319977559.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69
+[04-08-2021 22:10:48] Checking s69.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/s69.yy"
+[04-08-2021 22:10:48] Found Sprite: s69
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers
+[04-08-2021 22:10:48] Checking 4a6a73cd-b094-42f5-8a39-c21e731fb13a.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers
+[04-08-2021 22:10:48] Checking 4a6a73cd-b094-42f5-8a39-c21e731fb13a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers/4a6a73cd-b094-42f5-8a39-c21e731fb13a
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/s69/layers/4a6a73cd-b094-42f5-8a39-c21e731fb13a
+[04-08-2021 22:10:48] Checking 2efc97bc-ec05-4679-8ddb-ccfefed31e6a.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin
+[04-08-2021 22:10:48] Checking sBitcoin.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/sBitcoin.yy"
+[04-08-2021 22:10:48] Found Sprite: sBitcoin
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers
+[04-08-2021 22:10:48] Checking f76b8429-2833-4614-b285-640a26c803c3.png
+[04-08-2021 22:10:48] Checking e512cf4a-b6e6-4219-a391-533b35f8ec1a.png
+[04-08-2021 22:10:48] Checking d88d97c5-fc10-4a51-8e5f-c99bb47bdfce.png
+[04-08-2021 22:10:48] Checking a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f.png
+[04-08-2021 22:10:48] Checking 87cd5dfd-8a96-4d12-85a3-05350f76225c.png
+[04-08-2021 22:10:48] Checking 837c4f76-12b1-4ffa-9d6d-d05d76e3ff04.png
+[04-08-2021 22:10:48] Checking 7fa058e5-47cc-4242-81d8-52f4b359a63e.png
+[04-08-2021 22:10:48] Checking 4528d794-b70f-4cc6-bf63-73ff1e8e1778.png
+[04-08-2021 22:10:48] Checking 2d91e149-831d-43ac-bb22-10d8d9e41562.png
+[04-08-2021 22:10:48] Checking 0be85f28-8606-4c5b-ad11-0474863e240a.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers
+[04-08-2021 22:10:48] Checking f76b8429-2833-4614-b285-640a26c803c3
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/f76b8429-2833-4614-b285-640a26c803c3
+[04-08-2021 22:10:48] Checking e512cf4a-b6e6-4219-a391-533b35f8ec1a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/e512cf4a-b6e6-4219-a391-533b35f8ec1a
+[04-08-2021 22:10:48] Checking d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
+[04-08-2021 22:10:48] Checking a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
+[04-08-2021 22:10:48] Checking 87cd5dfd-8a96-4d12-85a3-05350f76225c
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/87cd5dfd-8a96-4d12-85a3-05350f76225c
+[04-08-2021 22:10:48] Checking 837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
+[04-08-2021 22:10:48] Checking 7fa058e5-47cc-4242-81d8-52f4b359a63e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/7fa058e5-47cc-4242-81d8-52f4b359a63e
+[04-08-2021 22:10:48] Checking 4528d794-b70f-4cc6-bf63-73ff1e8e1778
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/4528d794-b70f-4cc6-bf63-73ff1e8e1778
+[04-08-2021 22:10:48] Checking 2d91e149-831d-43ac-bb22-10d8d9e41562
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/2d91e149-831d-43ac-bb22-10d8d9e41562
+[04-08-2021 22:10:48] Checking 0be85f28-8606-4c5b-ad11-0474863e240a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/0be85f28-8606-4c5b-ad11-0474863e240a
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/0be85f28-8606-4c5b-ad11-0474863e240a
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/2d91e149-831d-43ac-bb22-10d8d9e41562
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/4528d794-b70f-4cc6-bf63-73ff1e8e1778
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/7fa058e5-47cc-4242-81d8-52f4b359a63e
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/837c4f76-12b1-4ffa-9d6d-d05d76e3ff04
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/87cd5dfd-8a96-4d12-85a3-05350f76225c
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/a9875dbf-cfd7-4cd1-9fe8-f6e01165ab2f
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/d88d97c5-fc10-4a51-8e5f-c99bb47bdfce
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/e512cf4a-b6e6-4219-a391-533b35f8ec1a
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBitcoin/layers/f76b8429-2833-4614-b285-640a26c803c3
+[04-08-2021 22:10:48] Checking 804a2114-7e85-4201-9388-1293538e4687.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers
+[04-08-2021 22:10:48] Checking b5719cbc-4838-4f3c-b8c7-8d081b0e2f71.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers
+[04-08-2021 22:10:48] Checking b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers/b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sBullet/layers/b5719cbc-4838-4f3c-b8c7-8d081b0e2f71
+[04-08-2021 22:10:48] Checking b29ae586-17c1-44f8-94a7-682c2b94c477.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo
+[04-08-2021 22:10:48] Checking SClawUfo.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/SClawUfo.yy"
+[04-08-2021 22:10:48] Found Sprite: SClawUfo
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers
+[04-08-2021 22:10:48] Checking ca49c47e-6245-46e3-ad1e-8097ce40119e.png
+[04-08-2021 22:10:48] Checking b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301.png
+[04-08-2021 22:10:48] Checking afb004ac-845d-4585-a8f3-d7216358cd7e.png
+[04-08-2021 22:10:48] Checking aa91d999-2d9f-434b-bcc5-9c9f1f602228.png
+[04-08-2021 22:10:48] Checking 992b2245-391d-41bd-9cd5-876a27187265.png
+[04-08-2021 22:10:48] Checking 9384ca2c-1137-47a0-be7d-7330856107f3.png
+[04-08-2021 22:10:48] Checking 8afa1414-9461-4b6b-be67-8d2bee790205.png
+[04-08-2021 22:10:48] Checking 866cd59c-31e7-4571-8861-8a01d38e4fe4.png
+[04-08-2021 22:10:48] Checking 1a79b56c-5f4f-49fe-9713-0c352755ef33.png
+[04-08-2021 22:10:48] Checking 18aaf284-c787-4823-bef2-ea3be557861d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers
+[04-08-2021 22:10:48] Checking ca49c47e-6245-46e3-ad1e-8097ce40119e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/ca49c47e-6245-46e3-ad1e-8097ce40119e
+[04-08-2021 22:10:48] Checking b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
+[04-08-2021 22:10:48] Checking afb004ac-845d-4585-a8f3-d7216358cd7e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/afb004ac-845d-4585-a8f3-d7216358cd7e
+[04-08-2021 22:10:48] Checking aa91d999-2d9f-434b-bcc5-9c9f1f602228
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/aa91d999-2d9f-434b-bcc5-9c9f1f602228
+[04-08-2021 22:10:48] Checking 992b2245-391d-41bd-9cd5-876a27187265
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/992b2245-391d-41bd-9cd5-876a27187265
+[04-08-2021 22:10:48] Checking 9384ca2c-1137-47a0-be7d-7330856107f3
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/9384ca2c-1137-47a0-be7d-7330856107f3
+[04-08-2021 22:10:48] Checking 8afa1414-9461-4b6b-be67-8d2bee790205
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/8afa1414-9461-4b6b-be67-8d2bee790205
+[04-08-2021 22:10:48] Checking 866cd59c-31e7-4571-8861-8a01d38e4fe4
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/866cd59c-31e7-4571-8861-8a01d38e4fe4
+[04-08-2021 22:10:48] Checking 1a79b56c-5f4f-49fe-9713-0c352755ef33
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/1a79b56c-5f4f-49fe-9713-0c352755ef33
+[04-08-2021 22:10:48] Checking 18aaf284-c787-4823-bef2-ea3be557861d
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/18aaf284-c787-4823-bef2-ea3be557861d
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/18aaf284-c787-4823-bef2-ea3be557861d
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/1a79b56c-5f4f-49fe-9713-0c352755ef33
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/866cd59c-31e7-4571-8861-8a01d38e4fe4
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/8afa1414-9461-4b6b-be67-8d2bee790205
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/9384ca2c-1137-47a0-be7d-7330856107f3
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/992b2245-391d-41bd-9cd5-876a27187265
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/aa91d999-2d9f-434b-bcc5-9c9f1f602228
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/afb004ac-845d-4585-a8f3-d7216358cd7e
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/b1a06fc3-dfc5-4ebb-9bcc-3defbdb14301
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SClawUfo/layers/ca49c47e-6245-46e3-ad1e-8097ce40119e
+[04-08-2021 22:10:48] Checking bad83698-5ebd-462f-9d1f-88639b5bb2fd.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge
+[04-08-2021 22:10:48] Checking sDoge.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/sDoge.yy"
+[04-08-2021 22:10:48] Found Sprite: sDoge
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers
+[04-08-2021 22:10:48] Checking efe0f39e-aa93-494b-b63d-ff1efa31979f.png
+[04-08-2021 22:10:48] Checking dd90173b-2c74-40f0-bd97-67b5fb40875a.png
+[04-08-2021 22:10:48] Checking db927afb-93ec-4a2a-98c7-13e1961f828f.png
+[04-08-2021 22:10:48] Checking bbcdd543-f2b7-45e0-ae92-8735ee2eaad5.png
+[04-08-2021 22:10:48] Checking 8d6a7328-2eca-4c0d-838a-ec5669db355a.png
+[04-08-2021 22:10:48] Checking 88f4df9e-fdbb-40d8-874d-df0b10d44140.png
+[04-08-2021 22:10:48] Checking 4eaa1dab-da50-4bce-b59c-e2a5f93824e4.png
+[04-08-2021 22:10:48] Checking 4c609668-2ae5-4718-b9f5-662599c4c34e.png
+[04-08-2021 22:10:48] Checking 2c231e65-342b-4586-98c5-cb8b7ef5ad11.png
+[04-08-2021 22:10:48] Checking 07da4446-50b6-4ae0-ab66-373fc8a331b2.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers
+[04-08-2021 22:10:48] Checking efe0f39e-aa93-494b-b63d-ff1efa31979f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/efe0f39e-aa93-494b-b63d-ff1efa31979f
+[04-08-2021 22:10:48] Checking dd90173b-2c74-40f0-bd97-67b5fb40875a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/dd90173b-2c74-40f0-bd97-67b5fb40875a
+[04-08-2021 22:10:48] Checking db927afb-93ec-4a2a-98c7-13e1961f828f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/db927afb-93ec-4a2a-98c7-13e1961f828f
+[04-08-2021 22:10:48] Checking bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
+[04-08-2021 22:10:48] Checking 8d6a7328-2eca-4c0d-838a-ec5669db355a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/8d6a7328-2eca-4c0d-838a-ec5669db355a
+[04-08-2021 22:10:48] Checking 88f4df9e-fdbb-40d8-874d-df0b10d44140
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/88f4df9e-fdbb-40d8-874d-df0b10d44140
+[04-08-2021 22:10:48] Checking 4eaa1dab-da50-4bce-b59c-e2a5f93824e4
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4eaa1dab-da50-4bce-b59c-e2a5f93824e4
+[04-08-2021 22:10:48] Checking 4c609668-2ae5-4718-b9f5-662599c4c34e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4c609668-2ae5-4718-b9f5-662599c4c34e
+[04-08-2021 22:10:48] Checking 2c231e65-342b-4586-98c5-cb8b7ef5ad11
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/2c231e65-342b-4586-98c5-cb8b7ef5ad11
+[04-08-2021 22:10:48] Checking 07da4446-50b6-4ae0-ab66-373fc8a331b2
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/07da4446-50b6-4ae0-ab66-373fc8a331b2
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/07da4446-50b6-4ae0-ab66-373fc8a331b2
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/2c231e65-342b-4586-98c5-cb8b7ef5ad11
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4c609668-2ae5-4718-b9f5-662599c4c34e
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/4eaa1dab-da50-4bce-b59c-e2a5f93824e4
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/88f4df9e-fdbb-40d8-874d-df0b10d44140
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/8d6a7328-2eca-4c0d-838a-ec5669db355a
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/bbcdd543-f2b7-45e0-ae92-8735ee2eaad5
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/db927afb-93ec-4a2a-98c7-13e1961f828f
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/dd90173b-2c74-40f0-bd97-67b5fb40875a
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sDoge/layers/efe0f39e-aa93-494b-b63d-ff1efa31979f
+[04-08-2021 22:10:48] Checking 4db843bf-76a6-4b7f-9c7a-5b8c26ad196d.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon
+[04-08-2021 22:10:48] Checking Sdogemoon.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/Sdogemoon.yy"
+[04-08-2021 22:10:48] Found Sprite: Sdogemoon
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers
+[04-08-2021 22:10:48] Checking f45e9852-a2aa-4331-a055-d9e5fa21640d.png
+[04-08-2021 22:10:48] Checking e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d.png
+[04-08-2021 22:10:48] Checking c502d256-81f3-4df8-99f6-dc8fee392d76.png
+[04-08-2021 22:10:48] Checking ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f.png
+[04-08-2021 22:10:48] Checking a03af246-617a-4fd1-af01-06c5d0d31185.png
+[04-08-2021 22:10:48] Checking 9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8.png
+[04-08-2021 22:10:48] Checking 944ebb8f-4c64-4d04-af0d-3af40b5564b9.png
+[04-08-2021 22:10:48] Checking 40306cd4-6267-41cc-a77d-bda3919a00f7.png
+[04-08-2021 22:10:48] Checking 2781ec24-9b6c-4aaf-be92-6d6eb026331f.png
+[04-08-2021 22:10:48] Checking 0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers
+[04-08-2021 22:10:48] Checking f45e9852-a2aa-4331-a055-d9e5fa21640d
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/f45e9852-a2aa-4331-a055-d9e5fa21640d
+[04-08-2021 22:10:48] Checking e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
+[04-08-2021 22:10:48] Checking c502d256-81f3-4df8-99f6-dc8fee392d76
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/c502d256-81f3-4df8-99f6-dc8fee392d76
+[04-08-2021 22:10:48] Checking ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
+[04-08-2021 22:10:48] Checking a03af246-617a-4fd1-af01-06c5d0d31185
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/a03af246-617a-4fd1-af01-06c5d0d31185
+[04-08-2021 22:10:48] Checking 9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
+[04-08-2021 22:10:48] Checking 944ebb8f-4c64-4d04-af0d-3af40b5564b9
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/944ebb8f-4c64-4d04-af0d-3af40b5564b9
+[04-08-2021 22:10:48] Checking 40306cd4-6267-41cc-a77d-bda3919a00f7
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/40306cd4-6267-41cc-a77d-bda3919a00f7
+[04-08-2021 22:10:48] Checking 2781ec24-9b6c-4aaf-be92-6d6eb026331f
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/2781ec24-9b6c-4aaf-be92-6d6eb026331f
+[04-08-2021 22:10:48] Checking 0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/0d03ab32-f8ee-4a7f-be1d-5d6910e6ff48
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/2781ec24-9b6c-4aaf-be92-6d6eb026331f
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/40306cd4-6267-41cc-a77d-bda3919a00f7
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/944ebb8f-4c64-4d04-af0d-3af40b5564b9
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/9965bbb5-1bf0-4dfa-a7f4-b1afe647b0f8
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/a03af246-617a-4fd1-af01-06c5d0d31185
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/ab57fe9c-d17d-4134-a1fc-bd1f745fdf7f
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/c502d256-81f3-4df8-99f6-dc8fee392d76
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/e7a31dcb-8b4d-45a5-bab1-95ba5a751b2d
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/Sdogemoon/layers/f45e9852-a2aa-4331-a055-d9e5fa21640d
+[04-08-2021 22:10:48] Checking a98cbfe5-9c08-4529-ae94-cb52f5aeed32.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth
+[04-08-2021 22:10:48] Checking SEarth.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/SEarth.yy"
+[04-08-2021 22:10:48] Found Sprite: SEarth
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers
+[04-08-2021 22:10:48] Checking fb0d538f-7bba-4a00-b23a-0dd5d1e967a6.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers
+[04-08-2021 22:10:48] Checking fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers/fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SEarth/layers/fb0d538f-7bba-4a00-b23a-0dd5d1e967a6
+[04-08-2021 22:10:48] Checking 93a9280a-1065-4f2a-a043-3c0a21dc6b7f.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy
+[04-08-2021 22:10:48] Checking sEnemy.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/sEnemy.yy"
+[04-08-2021 22:10:48] Found Sprite: sEnemy
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers
+[04-08-2021 22:10:48] Checking 216cc6a2-4a88-4222-a054-2f1354af3b72.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers
+[04-08-2021 22:10:48] Checking 216cc6a2-4a88-4222-a054-2f1354af3b72
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers/216cc6a2-4a88-4222-a054-2f1354af3b72
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sEnemy/layers/216cc6a2-4a88-4222-a054-2f1354af3b72
+[04-08-2021 22:10:48] Checking 44801ec2-6bf8-461d-b610-88803f9b2815.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin
+[04-08-2021 22:10:48] Checking SHitbitcoin.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/SHitbitcoin.yy"
+[04-08-2021 22:10:48] Found Sprite: SHitbitcoin
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers
+[04-08-2021 22:10:48] Checking fbd8bc47-cb9f-4f3a-b11a-563d21a17996.png
+[04-08-2021 22:10:48] Checking d2efc6b8-3eb9-45b9-a53c-e316acd9ed42.png
+[04-08-2021 22:10:48] Checking b3ab8f17-29ce-4751-b325-2efe42672587.png
+[04-08-2021 22:10:48] Checking 7eb34659-fe93-4d31-8202-f1d8bd6c2b08.png
+[04-08-2021 22:10:48] Checking 081c00f1-edc9-4aac-a1a1-8597ab44ed53.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers
+[04-08-2021 22:10:48] Checking fbd8bc47-cb9f-4f3a-b11a-563d21a17996
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/fbd8bc47-cb9f-4f3a-b11a-563d21a17996
+[04-08-2021 22:10:48] Checking d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
+[04-08-2021 22:10:48] Checking b3ab8f17-29ce-4751-b325-2efe42672587
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/b3ab8f17-29ce-4751-b325-2efe42672587
+[04-08-2021 22:10:48] Checking 7eb34659-fe93-4d31-8202-f1d8bd6c2b08
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/7eb34659-fe93-4d31-8202-f1d8bd6c2b08
+[04-08-2021 22:10:48] Checking 081c00f1-edc9-4aac-a1a1-8597ab44ed53
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/081c00f1-edc9-4aac-a1a1-8597ab44ed53
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/081c00f1-edc9-4aac-a1a1-8597ab44ed53
+[04-08-2021 22:10:48] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/7eb34659-fe93-4d31-8202-f1d8bd6c2b08
+[04-08-2021 22:10:48] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/b3ab8f17-29ce-4751-b325-2efe42672587
+[04-08-2021 22:10:48] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/d2efc6b8-3eb9-45b9-a53c-e316acd9ed42
+[04-08-2021 22:10:48] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SHitbitcoin/layers/fbd8bc47-cb9f-4f3a-b11a-563d21a17996
+[04-08-2021 22:10:48] Checking 963e9945-deb1-4f62-a4fe-11b10fc37717.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu
+[04-08-2021 22:10:48] Checking sMenu.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/sMenu.yy"
+[04-08-2021 22:10:48] Found Sprite: sMenu
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers
+[04-08-2021 22:10:48] Checking 001c1c7c-ae10-4876-9ab4-5b6db281da12.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers
+[04-08-2021 22:10:48] Checking 001c1c7c-ae10-4876-9ab4-5b6db281da12
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers/001c1c7c-ae10-4876-9ab4-5b6db281da12
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sMenu/layers/001c1c7c-ae10-4876-9ab4-5b6db281da12
+[04-08-2021 22:10:48] Checking 43b629fd-ab99-4b75-8ee2-ac55e7d9e88b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer
+[04-08-2021 22:10:48] Checking sPlayer.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/sPlayer.yy"
+[04-08-2021 22:10:48] Found Sprite: sPlayer
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers
+[04-08-2021 22:10:48] Checking 94312281-813e-4632-a7aa-450df24d5869.png
+[04-08-2021 22:10:48] Checking 6d956021-7137-4e8a-8444-761a1ab1d334.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers
+[04-08-2021 22:10:48] Checking 94312281-813e-4632-a7aa-450df24d5869
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/94312281-813e-4632-a7aa-450df24d5869
+[04-08-2021 22:10:48] Checking 6d956021-7137-4e8a-8444-761a1ab1d334
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/6d956021-7137-4e8a-8444-761a1ab1d334
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/6d956021-7137-4e8a-8444-761a1ab1d334
+[04-08-2021 22:10:48] Checking 4c0d55a5-9ce0-42b0-bc64-449915a82d57.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/sPlayer/layers/94312281-813e-4632-a7aa-450df24d5869
+[04-08-2021 22:10:48] Checking 438416dd-8247-48a9-9f53-adf1c8a3a884.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars
+[04-08-2021 22:10:48] Checking SStars.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/SStars.yy"
+[04-08-2021 22:10:48] Found Sprite: SStars
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers
+[04-08-2021 22:10:48] Checking d5136dec-dab3-441c-8d29-8132d90b031b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers
+[04-08-2021 22:10:48] Checking d5136dec-dab3-441c-8d29-8132d90b031b
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers/d5136dec-dab3-441c-8d29-8132d90b031b
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/SStars/layers/d5136dec-dab3-441c-8d29-8132d90b031b
+[04-08-2021 22:10:48] Checking fdc52746-4cc5-49b9-9da6-e48fe6a714b2.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background
+[04-08-2021 22:10:48] Checking S_Background.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/S_Background.yy"
+[04-08-2021 22:10:48] Found Sprite: S_Background
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers
+[04-08-2021 22:10:48] Checking c5b9b3a8-d233-4912-80f3-19f6517fa6f9.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers
+[04-08-2021 22:10:48] Checking c5b9b3a8-d233-4912-80f3-19f6517fa6f9
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers/c5b9b3a8-d233-4912-80f3-19f6517fa6f9
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_Background/layers/c5b9b3a8-d233-4912-80f3-19f6517fa6f9
+[04-08-2021 22:10:48] Checking b95dd04b-c934-4c81-ba82-8675580036eb.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet
+[04-08-2021 22:10:48] Checking S_DogeBullet.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/S_DogeBullet.yy"
+[04-08-2021 22:10:48] Found Sprite: S_DogeBullet
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers
+[04-08-2021 22:10:48] Checking e1510f2d-88b2-46a7-946b-253c05fea72a.png
+[04-08-2021 22:10:48] Checking 9bfa106a-dad9-4ca7-a274-245ece69f4c3.png
+[04-08-2021 22:10:48] Checking 8afb82e4-88cd-490a-8c43-e5630a929d6e.png
+[04-08-2021 22:10:48] Checking 63b70002-716c-4687-89f3-b04d315d06c5.png
+[04-08-2021 22:10:48] Checking 563ab123-06ae-4f51-8f60-52e28753c21c.png
+[04-08-2021 22:10:48] Checking 3c77cc8a-43cf-4135-8d24-312146e282e1.png
+[04-08-2021 22:10:48] Checking 3c19a150-0765-4484-b955-da29fb450813.png
+[04-08-2021 22:10:48] Checking 31eccc50-8f1a-4736-94a2-dbcd2c0c11d8.png
+[04-08-2021 22:10:48] Checking 280a6a2f-7a07-474c-a8ea-106e3b3d13b6.png
+[04-08-2021 22:10:48] Checking 0a123d96-62db-41e6-a9d5-e5a7500567f7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers
+[04-08-2021 22:10:48] Checking e1510f2d-88b2-46a7-946b-253c05fea72a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/e1510f2d-88b2-46a7-946b-253c05fea72a
+[04-08-2021 22:10:48] Checking 9bfa106a-dad9-4ca7-a274-245ece69f4c3
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/9bfa106a-dad9-4ca7-a274-245ece69f4c3
+[04-08-2021 22:10:48] Checking 8afb82e4-88cd-490a-8c43-e5630a929d6e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/8afb82e4-88cd-490a-8c43-e5630a929d6e
+[04-08-2021 22:10:48] Checking 63b70002-716c-4687-89f3-b04d315d06c5
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/63b70002-716c-4687-89f3-b04d315d06c5
+[04-08-2021 22:10:48] Checking 563ab123-06ae-4f51-8f60-52e28753c21c
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/563ab123-06ae-4f51-8f60-52e28753c21c
+[04-08-2021 22:10:48] Checking 3c77cc8a-43cf-4135-8d24-312146e282e1
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c77cc8a-43cf-4135-8d24-312146e282e1
+[04-08-2021 22:10:48] Checking 3c19a150-0765-4484-b955-da29fb450813
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c19a150-0765-4484-b955-da29fb450813
+[04-08-2021 22:10:48] Checking 31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
+[04-08-2021 22:10:48] Checking 280a6a2f-7a07-474c-a8ea-106e3b3d13b6
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/280a6a2f-7a07-474c-a8ea-106e3b3d13b6
+[04-08-2021 22:10:48] Checking 0a123d96-62db-41e6-a9d5-e5a7500567f7
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/0a123d96-62db-41e6-a9d5-e5a7500567f7
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/0a123d96-62db-41e6-a9d5-e5a7500567f7
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/280a6a2f-7a07-474c-a8ea-106e3b3d13b6
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/31eccc50-8f1a-4736-94a2-dbcd2c0c11d8
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c19a150-0765-4484-b955-da29fb450813
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/3c77cc8a-43cf-4135-8d24-312146e282e1
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/563ab123-06ae-4f51-8f60-52e28753c21c
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/63b70002-716c-4687-89f3-b04d315d06c5
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/8afb82e4-88cd-490a-8c43-e5630a929d6e
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/9bfa106a-dad9-4ca7-a274-245ece69f4c3
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogeBullet/layers/e1510f2d-88b2-46a7-946b-253c05fea72a
+[04-08-2021 22:10:48] Checking 4b3587af-d08d-4386-a951-262eb6c8d41b.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn
+[04-08-2021 22:10:48] Checking S_DogetothemOOn.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/S_DogetothemOOn.yy"
+[04-08-2021 22:10:48] Found Sprite: S_DogetothemOOn
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers
+[04-08-2021 22:10:48] Checking 415d676d-0afe-44ca-bc40-b5342ae1f5d7.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers
+[04-08-2021 22:10:48] Checking 415d676d-0afe-44ca-bc40-b5342ae1f5d7
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers/415d676d-0afe-44ca-bc40-b5342ae1f5d7
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_DogetothemOOn/layers/415d676d-0afe-44ca-bc40-b5342ae1f5d7
+[04-08-2021 22:10:48] Checking c2b8180f-86e6-44e5-be33-7e58d94f947f.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire
+[04-08-2021 22:10:48] Checking S_fire.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/S_fire.yy"
+[04-08-2021 22:10:48] Found Sprite: S_fire
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers
+[04-08-2021 22:10:48] Checking f1002945-b397-489b-b7d5-fbf0c7c3f44b.png
+[04-08-2021 22:10:48] Checking 85f2259f-dc88-4aff-9f55-a260209b1f05.png
+[04-08-2021 22:10:48] Checking 5323e0a7-8c10-48ed-8b36-cfb306a629ae.png
+[04-08-2021 22:10:48] Checking 4d81e710-504f-4f61-8b18-324f80c2cb58.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers
+[04-08-2021 22:10:48] Checking f1002945-b397-489b-b7d5-fbf0c7c3f44b
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/f1002945-b397-489b-b7d5-fbf0c7c3f44b
+[04-08-2021 22:10:48] Checking 85f2259f-dc88-4aff-9f55-a260209b1f05
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/85f2259f-dc88-4aff-9f55-a260209b1f05
+[04-08-2021 22:10:48] Checking 5323e0a7-8c10-48ed-8b36-cfb306a629ae
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/5323e0a7-8c10-48ed-8b36-cfb306a629ae
+[04-08-2021 22:10:48] Checking 4d81e710-504f-4f61-8b18-324f80c2cb58
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/4d81e710-504f-4f61-8b18-324f80c2cb58
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/4d81e710-504f-4f61-8b18-324f80c2cb58
+[04-08-2021 22:10:48] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/5323e0a7-8c10-48ed-8b36-cfb306a629ae
+[04-08-2021 22:10:48] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/85f2259f-dc88-4aff-9f55-a260209b1f05
+[04-08-2021 22:10:48] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_fire/layers/f1002945-b397-489b-b7d5-fbf0c7c3f44b
+[04-08-2021 22:10:48] Checking c38f4b32-253d-44d2-b00e-d9eb0eb18e59.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw
+[04-08-2021 22:10:48] Checking S_hitClaw.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/S_hitClaw.yy"
+[04-08-2021 22:10:48] Found Sprite: S_hitClaw
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers
+[04-08-2021 22:10:48] Checking f2e4779e-593e-4c33-bf2b-f6f7bba7b188.png
+[04-08-2021 22:10:48] Checking ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd.png
+[04-08-2021 22:10:48] Checking 9a80bc61-ffaf-4936-8843-2bc4c9143c54.png
+[04-08-2021 22:10:48] Checking 9181afbf-1f10-4b18-b09d-56fb8e00c161.png
+[04-08-2021 22:10:48] Checking 03f17521-79be-4862-a8e7-7c537f212b24.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers
+[04-08-2021 22:10:48] Checking f2e4779e-593e-4c33-bf2b-f6f7bba7b188
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/f2e4779e-593e-4c33-bf2b-f6f7bba7b188
+[04-08-2021 22:10:48] Checking ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
+[04-08-2021 22:10:48] Checking 9a80bc61-ffaf-4936-8843-2bc4c9143c54
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9a80bc61-ffaf-4936-8843-2bc4c9143c54
+[04-08-2021 22:10:48] Checking 9181afbf-1f10-4b18-b09d-56fb8e00c161
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9181afbf-1f10-4b18-b09d-56fb8e00c161
+[04-08-2021 22:10:48] Checking 03f17521-79be-4862-a8e7-7c537f212b24
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/03f17521-79be-4862-a8e7-7c537f212b24
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/03f17521-79be-4862-a8e7-7c537f212b24
+[04-08-2021 22:10:48] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9181afbf-1f10-4b18-b09d-56fb8e00c161
+[04-08-2021 22:10:48] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/9a80bc61-ffaf-4936-8843-2bc4c9143c54
+[04-08-2021 22:10:48] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/ad5b3d5a-b3a9-4dcc-b1de-ca1c719ae9dd
+[04-08-2021 22:10:48] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitClaw/layers/f2e4779e-593e-4c33-bf2b-f6f7bba7b188
+[04-08-2021 22:10:48] Checking b50e3290-b016-4997-9df8-96ae599c44f0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino
+[04-08-2021 22:10:48] Checking S_hitdino.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/S_hitdino.yy"
+[04-08-2021 22:10:48] Found Sprite: S_hitdino
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers
+[04-08-2021 22:10:48] Checking fe7e50b3-0a38-4854-851b-d1e15d871a90.png
+[04-08-2021 22:10:48] Checking eacd8dbf-ae14-44ab-980e-7d6e47e725b0.png
+[04-08-2021 22:10:48] Checking d7d9c42a-003b-408e-9066-0a162a81ee3a.png
+[04-08-2021 22:10:48] Checking 362904ad-bd9e-4f6e-b299-7077729c4a78.png
+[04-08-2021 22:10:48] Checking 2dcea00e-43cd-42b1-9479-924f52e49f10.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers
+[04-08-2021 22:10:48] Checking fe7e50b3-0a38-4854-851b-d1e15d871a90
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/fe7e50b3-0a38-4854-851b-d1e15d871a90
+[04-08-2021 22:10:48] Checking eacd8dbf-ae14-44ab-980e-7d6e47e725b0
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/eacd8dbf-ae14-44ab-980e-7d6e47e725b0
+[04-08-2021 22:10:48] Checking d7d9c42a-003b-408e-9066-0a162a81ee3a
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/d7d9c42a-003b-408e-9066-0a162a81ee3a
+[04-08-2021 22:10:48] Checking 362904ad-bd9e-4f6e-b299-7077729c4a78
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/362904ad-bd9e-4f6e-b299-7077729c4a78
+[04-08-2021 22:10:48] Checking 2dcea00e-43cd-42b1-9479-924f52e49f10
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/2dcea00e-43cd-42b1-9479-924f52e49f10
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/2dcea00e-43cd-42b1-9479-924f52e49f10
+[04-08-2021 22:10:48] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/362904ad-bd9e-4f6e-b299-7077729c4a78
+[04-08-2021 22:10:48] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/d7d9c42a-003b-408e-9066-0a162a81ee3a
+[04-08-2021 22:10:48] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/eacd8dbf-ae14-44ab-980e-7d6e47e725b0
+[04-08-2021 22:10:48] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_hitdino/layers/fe7e50b3-0a38-4854-851b-d1e15d871a90
+[04-08-2021 22:10:48] Checking ee2acff0-4131-45e4-a08c-2b77c3ae27b4.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO
+[04-08-2021 22:10:48] Checking S_UFO.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/S_UFO.yy"
+[04-08-2021 22:10:48] Found Sprite: S_UFO
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers
+[04-08-2021 22:10:48] Checking af1ee4ae-8bbe-499b-bcbe-15c4e320057e.png
+[04-08-2021 22:10:48] Checking 98a2bb87-7221-454f-b73f-0f2dc33894f5.png
+[04-08-2021 22:10:48] Checking 81594211-3f5c-4519-ab61-b7ef5804db13.png
+[04-08-2021 22:10:48] Checking 7824b201-5e2f-4614-b17f-368fa6e177bc.png
+[04-08-2021 22:10:48] Checking 37d21f23-90ed-4db6-83af-305de2074e97.png
+[04-08-2021 22:10:48] Checking 1dcea2fc-0093-4cd9-bbe6-99415cb7e270.png
+[04-08-2021 22:10:48] Checking 17520d2a-184d-4664-a12d-a2739362af64.png
+[04-08-2021 22:10:48] Checking 117d8c00-8379-4b14-8715-a91623d85cb2.png
+[04-08-2021 22:10:48] Checking 11273c92-a737-4cb7-b04a-a0f710e64f68.png
+[04-08-2021 22:10:48] Checking 0ed95835-2e4e-464a-b38b-a781001f5d0c.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers
+[04-08-2021 22:10:48] Checking af1ee4ae-8bbe-499b-bcbe-15c4e320057e
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/af1ee4ae-8bbe-499b-bcbe-15c4e320057e
+[04-08-2021 22:10:48] Checking 98a2bb87-7221-454f-b73f-0f2dc33894f5
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/98a2bb87-7221-454f-b73f-0f2dc33894f5
+[04-08-2021 22:10:48] Checking 81594211-3f5c-4519-ab61-b7ef5804db13
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/81594211-3f5c-4519-ab61-b7ef5804db13
+[04-08-2021 22:10:48] Checking 7824b201-5e2f-4614-b17f-368fa6e177bc
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/7824b201-5e2f-4614-b17f-368fa6e177bc
+[04-08-2021 22:10:48] Checking 37d21f23-90ed-4db6-83af-305de2074e97
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/37d21f23-90ed-4db6-83af-305de2074e97
+[04-08-2021 22:10:48] Checking 1dcea2fc-0093-4cd9-bbe6-99415cb7e270
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/1dcea2fc-0093-4cd9-bbe6-99415cb7e270
+[04-08-2021 22:10:48] Checking 17520d2a-184d-4664-a12d-a2739362af64
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/17520d2a-184d-4664-a12d-a2739362af64
+[04-08-2021 22:10:48] Checking 117d8c00-8379-4b14-8715-a91623d85cb2
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/117d8c00-8379-4b14-8715-a91623d85cb2
+[04-08-2021 22:10:48] Checking 11273c92-a737-4cb7-b04a-a0f710e64f68
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/11273c92-a737-4cb7-b04a-a0f710e64f68
+[04-08-2021 22:10:48] Checking 0ed95835-2e4e-464a-b38b-a781001f5d0c
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/0ed95835-2e4e-464a-b38b-a781001f5d0c
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/0ed95835-2e4e-464a-b38b-a781001f5d0c
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/11273c92-a737-4cb7-b04a-a0f710e64f68
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/117d8c00-8379-4b14-8715-a91623d85cb2
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/17520d2a-184d-4664-a12d-a2739362af64
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/1dcea2fc-0093-4cd9-bbe6-99415cb7e270
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/37d21f23-90ed-4db6-83af-305de2074e97
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/7824b201-5e2f-4614-b17f-368fa6e177bc
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/81594211-3f5c-4519-ab61-b7ef5804db13
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/98a2bb87-7221-454f-b73f-0f2dc33894f5
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/S_UFO/layers/af1ee4ae-8bbe-499b-bcbe-15c4e320057e
+[04-08-2021 22:10:48] Checking fa244f61-8354-49d6-b33c-f1a6f67a77d0.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test
+[04-08-2021 22:10:48] Checking test.yy
+[04-08-2021 22:10:48] Parsing D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy
+[04-08-2021 22:10:48] Reading D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy
+[04-08-2021 22:10:48] Par: "folders/Sprites" at dir: "D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/test.yy"
+[04-08-2021 22:10:48] Found Sprite: test
+[04-08-2021 22:10:48] Checking layers
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers
+[04-08-2021 22:10:48] Checking 32b079d5-2be9-4b46-ab31-0e6fdd3f4eab.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers
+[04-08-2021 22:10:48] Checking 32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
+[04-08-2021 22:10:48] Directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers/32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/sprites/test/layers/32b079d5-2be9-4b46-ab31-0e6fdd3f4eab
+[04-08-2021 22:10:48] Checking f02baabc-197e-40d6-9388-23d425fe5cd3.png
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/tilesets
+[04-08-2021 22:10:48] Current parent directory: D:/Game Maker Projects/dogetothemoon/operagx-gamejam-speedrun/dogetothemoon/timelines
+[04-08-2021 22:10:48] Moving files to trash...
+[04-08-2021 22:10:48] Files yeeted successfully!
+[04-08-2021 22:10:48] Generating YYP...
+[04-08-2021 22:10:48] dogetothemoon.yyp created successfully!
