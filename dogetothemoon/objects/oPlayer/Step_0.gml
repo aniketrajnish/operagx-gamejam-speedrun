@@ -4,18 +4,23 @@ shoot = keyboard_check(vk_space);
 
 move = 0;
 pSpeed = 5*oSpawner.difficulty/3;
-if(left)
+if (left and right)
+{
+	move = 0;
+	image_angle = lerp(image_angle, 0 , .25);
+}
+else if(left)
 {
 	move = -1;
 	image_angle+=3;
 }
-if(right) 
+else if(right) 
 {
 	move = 1;
 	image_angle-=3;
 }
 
-if(!left and !right)
+else if(!left and !right)
 {
 	image_angle = lerp(image_angle, 0 , .25);
 }
@@ -39,4 +44,5 @@ if (shoot and canShoot)
 	instance_create_depth(x, y-26, -1, oBullet);
 	canShoot = false;
 	pAlarm = room_speed;
+	audio_play_sound(Shoot,1,false);
 }

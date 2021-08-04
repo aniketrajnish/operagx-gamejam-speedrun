@@ -16,13 +16,18 @@ else if (oSpawner.gameScore<6000)
 	spr = SClawUfo;
 	sprHit = S_hitClaw;
 }
+else if (oSpawner.gameScore<8000)
+{
+	spr = naruto_run;
+	sprHit = Naruto_hit;
+}
 else
 {
 	i = irandom_range(0,3);
 	if(i==0) 
 	{
-		spr = sBitcoin;
-		sprHit = SHitbitcoin;
+		spr = naruto_run;
+		sprHit = Naruto_hit;
 	}
 	if(i==1) 
 	{

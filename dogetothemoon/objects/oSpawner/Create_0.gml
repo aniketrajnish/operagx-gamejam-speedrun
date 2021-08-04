@@ -22,3 +22,7 @@ part_system_depth(global.partSystem, -100);
 alarm[1] = 2*room_speed;
 showInstruction = true;
 
+audio_group_load(audiogroup_default);
+
+
+

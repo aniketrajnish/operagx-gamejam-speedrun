@@ -11,6 +11,7 @@ if(eLife<0)
 	oSpawner.alarm[0] = 30;
 	part_particles_create(global.partSystem, x , y , global.ptBasic, 1);
 	part_particles_create(global.partSystem, x , y , global.ptTextPlus, 1);
+	audio_play_sound(eExplode,1,false);
 }
 if (y>1000) instance_destroy();
 
