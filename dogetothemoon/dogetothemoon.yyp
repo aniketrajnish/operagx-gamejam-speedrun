@@ -14,7 +14,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
     {"id":{"name":"init","path":"scripts/init/init.yy",},"order":0,},
     {"id":{"name":"Naruto","path":"sprites/Naruto/Naruto.yy",},"order":0,},
-    {"id":{"name":"naruto_run","path":"sprites/naruto_run/naruto_run.yy",},"order":5,},
+    {"id":{"name":"naruto_run","path":"sprites/naruto_run/naruto_run.yy",},"order":21,},
     {"id":{"name":"s420","path":"sprites/s420/s420.yy",},"order":1,},
     {"id":{"name":"s69","path":"sprites/s69/s69.yy",},"order":2,},
     {"id":{"name":"sBitcoin","path":"sprites/sBitcoin/sBitcoin.yy",},"order":3,},
