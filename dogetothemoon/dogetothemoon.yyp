@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"gameFont","path":"fonts/gameFont/gameFont.yy",},"order":0,},
     {"id":{"name":"gameFontSmall","path":"fonts/gameFontSmall/gameFontSmall.yy",},"order":1,},
+    {"id":{"name":"Naruto_hit","path":"sprites/Naruto_hit/Naruto_hit.yy",},"order":22,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":0,},
     {"id":{"name":"oDogeIcon","path":"objects/oDogeIcon/oDogeIcon.yy",},"order":1,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
