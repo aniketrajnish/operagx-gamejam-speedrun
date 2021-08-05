@@ -1,22 +1,22 @@
 rand = random_range(-.25,.25);
 //eAlarm = 60;
 //eSpeed = 3;
-if(oSpawner.gameScore<2000)
+if(oSpawner.gameScore<200)
 {
 	spr = sBitcoin;
 	sprHit = SHitbitcoin;
 }
-else if (oSpawner.gameScore<4000)
+else if (oSpawner.gameScore<400)
 {
 	spr = S_UFO;
 	sprHit = S_hitdino;
 }
-else if (oSpawner.gameScore<6000)
+else if (oSpawner.gameScore<600)
 {
 	spr = SClawUfo;
 	sprHit = S_hitClaw;
 }
-else if (oSpawner.gameScore<8000)
+else if (oSpawner.gameScore<800)
 {
 	spr = naruto_run;
 	sprHit = Naruto_hit;
