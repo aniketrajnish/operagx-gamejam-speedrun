@@ -14,6 +14,7 @@
     {"id":{"name":"oSpawner","path":"objects/oSpawner/oSpawner.yy",},"order":6,},
     {"id":{"name":"oDogeText","path":"objects/oDogeText/oDogeText.yy",},"order":7,},
     {"id":{"name":"Game","path":"rooms/Game/Game.yy",},"order":0,},
+    {"id":{"name":"Pablo","path":"sprites/Pablo/Pablo.yy",},"order":6,},
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":1,},
     {"id":{"name":"init","path":"scripts/init/init.yy",},"order":0,},
     {"id":{"name":"Naruto","path":"sprites/Naruto/Naruto.yy",},"order":0,},
