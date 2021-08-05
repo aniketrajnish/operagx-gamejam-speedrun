@@ -6,7 +6,7 @@ gameScore = 0;
 playerDead = false;
 ini_open("saveFile");
 highScore = ini_read_real("highscore","score",0);
-eSpeed = 3;
+difficulty = 3;
 eAlarm = 60;
 canRestart=false;
 ini_close();
@@ -17,7 +17,12 @@ shakeValue = 0;
 view_x = camera_get_view_x(view_camera[0]);
 view_y = camera_get_view_y(view_camera[0]);
 
-
 global.partSystem = part_system_create();
 part_system_depth(global.partSystem, -100);
+alarm[1] = 2*room_speed;
+showInstruction = true;
+
+audio_group_load(audiogroup_default);
+
+
 
