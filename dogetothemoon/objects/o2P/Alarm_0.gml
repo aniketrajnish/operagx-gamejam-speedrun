@@ -1,0 +1,1 @@
+if (!audio_is_playing(Dialogue)) audio_play_sound(Dialogue,1,false);

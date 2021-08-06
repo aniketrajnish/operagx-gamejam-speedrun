@@ -1,2 +1,2 @@
-if (room == Game)
-room_goto_previous();
+if (room == Game or room == MultiGame)
+room_goto(2);
