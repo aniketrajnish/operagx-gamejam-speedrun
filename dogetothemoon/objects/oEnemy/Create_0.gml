@@ -26,9 +26,14 @@ else if (oSpawner.gameScore<5000)
 	spr = Pablo;
 	sprHit = Pablo_hit;
 }
+else if (oSpawner.gameScore<6000)
+{
+	spr = banana_alien;
+	sprHit = hitbanana;
+}
 else
 {
-	i = irandom_range(0,4);
+	i = irandom_range(0,5);
 	if(i==0) 
 	{
 		spr = naruto_run;
@@ -53,6 +58,11 @@ else
 	{
 	spr = Pablo;
 	sprHit = Pablo_hit;
+	}
+	else if (i == 5)
+	{
+	spr = banana_alien;
+	sprHit = hitbanana;
 	}
 }
 eLife = 2;
