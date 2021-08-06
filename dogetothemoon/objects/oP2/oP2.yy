@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "sDoge",
-    "path": "sprites/sDoge/sDoge.yy",
+    "name": "buff_doge",
+    "path": "sprites/buff_doge/buff_doge.yy",
   },
   "solid": false,
   "visible": true,
