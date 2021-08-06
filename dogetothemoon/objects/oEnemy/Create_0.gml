@@ -1,48 +1,58 @@
 rand = random_range(-.25,.25);
 //eAlarm = 60;
 //eSpeed = 3;
-if(oSpawner.gameScore<2000)
+if(oSpawner.gameScore<1000)
 {
 	spr = sBitcoin;
 	sprHit = SHitbitcoin;
 }
-else if (oSpawner.gameScore<4000)
+else if (oSpawner.gameScore<2000)
 {
 	spr = S_UFO;
 	sprHit = S_hitdino;
 }
-else if (oSpawner.gameScore<6000)
+else if (oSpawner.gameScore<3000)
 {
 	spr = SClawUfo;
 	sprHit = S_hitClaw;
 }
-else if (oSpawner.gameScore<8000)
+else if (oSpawner.gameScore<4000)
 {
 	spr = naruto_run;
 	sprHit = Naruto_hit;
 }
+else if (oSpawner.gameScore<5000)
+{
+	spr = Pablo;
+	sprHit = Pablo_hit;
+}
 else
 {
-	i = irandom_range(0,3);
+	i = irandom_range(0,4);
 	if(i==0) 
 	{
 		spr = naruto_run;
 		sprHit = Naruto_hit;
 	}
-	if(i==1) 
+	else if (i==1) 
 	{
 		spr = S_UFO;
 		sprHit = S_hitdino;
 	}
-	if(i==2)
+	else if (i==2)
 	{
 		spr = sBitcoin;
 		sprHit = SHitbitcoin;
 	}
-	if(i==3)
+	else if (i==3)
 	{
 		spr = SClawUfo;
 		sprHit = S_hitClaw;
+	}
+	else if (i == 4)
+	{
+	spr = Pablo;
+	sprHit = Pablo_hit;
 	}
 }
 eLife = 2;

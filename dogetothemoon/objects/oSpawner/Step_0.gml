@@ -1,5 +1,5 @@
 sAlarm-= difficulty/6;
-if (sAlarm <= 0 and room == Game)
+if (sAlarm <= 0 and room != Menu)
 {
 	rand = random_range(-150,150);
 	while (rand <= old_rand + 50 and rand >= old_rand - 50)
@@ -15,11 +15,24 @@ if(!playerDead) gameScore+= floor(.5*difficulty);
 else
 {	
 	canRestart = true;
-	if(gameScore > highScore)
+	if (room == Game)
+	{	
+		if(gameScore > highScore)
+		{
+			ini_open("saveFile");
+			ini_write_real("highscore","score",gameScore);
+			highScore = ini_read_real("highscore","score",0);
+		}
+	}
+	
+	else if (room == MultiGame)
 	{
-		ini_open("saveFile");
-		ini_write_real("highscore","score",gameScore);
-		highScore = ini_read_real("highscore","score",0);
+		if(gameScore > highScoreMulti)
+		{
+			ini_open("saveFile");
+			ini_write_real("highscoreMulti","score",gameScore);
+			highScore = ini_read_real("highscoreMulti","score",0);
+		}
 	}
 }
 
@@ -27,6 +40,10 @@ if(gameScore<0) gameScore = 0;
 
 eAlarm--;
 
+if (room == MultiGame and !instance_exists(oP1) and !instance_exists(oP2))
+{
+	playerDead = true;
+}
 if (eAlarm<=0)
 {	
 	//count+=.5;
