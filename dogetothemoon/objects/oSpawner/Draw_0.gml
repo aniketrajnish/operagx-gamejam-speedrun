@@ -12,7 +12,7 @@ if(room != Menu)
 		else
 		{
 			draw_text(x, y+200, "space / A,D - P1");
-			draw_text(x, y+240, " rctrl / arrow keys - P2 ");
+			draw_text(x, y+240, "ctrl / arrow keys - P2 ");
 		}
 	}
 		

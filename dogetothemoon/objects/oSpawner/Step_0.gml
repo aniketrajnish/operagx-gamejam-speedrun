@@ -31,7 +31,7 @@ else
 		{
 			ini_open("saveFile");
 			ini_write_real("highscoreMulti","score",gameScore);
-			highScore = ini_read_real("highscoreMulti","score",0);
+			highScoreMulti = ini_read_real("highscoreMulti","score",0);
 		}
 	}
 }
