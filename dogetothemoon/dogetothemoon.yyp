@@ -31,6 +31,7 @@
     {"id":{"name":"naruto_run","path":"sprites/naruto_run/naruto_run.yy",},"order":2,},
     {"id":{"name":"Pablo","path":"sprites/Pablo/Pablo.yy",},"order":3,},
     {"id":{"name":"Pablo_hit","path":"sprites/Pablo_hit/Pablo_hit.yy",},"order":4,},
+    {"id":{"name":"buff_doge","path":"sprites/buff_doge/buff_doge.yy",},"order":6,},
     {"id":{"name":"s420","path":"sprites/s420/s420.yy",},"order":5,},
     {"id":{"name":"s69","path":"sprites/s69/s69.yy",},"order":6,},
     {"id":{"name":"sBitcoin","path":"sprites/sBitcoin/sBitcoin.yy",},"order":7,},
