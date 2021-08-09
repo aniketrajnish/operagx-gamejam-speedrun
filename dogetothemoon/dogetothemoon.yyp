@@ -20,6 +20,7 @@
     {"id":{"name":"eExplode","path":"sounds/eExplode/eExplode.yy",},"order":1,},
     {"id":{"name":"Hit","path":"sounds/Hit/Hit.yy",},"order":2,},
     {"id":{"name":"oP2","path":"objects/oP2/oP2.yy",},"order":11,},
+    {"id":{"name":"milk","path":"sprites/milk/milk.yy",},"order":31,},
     {"id":{"name":"pExplode","path":"sounds/pExplode/pExplode.yy",},"order":3,},
     {"id":{"name":"o2P","path":"objects/o2P/o2P.yy",},"order":9,},
     {"id":{"name":"hitbanana","path":"sprites/hitbanana/hitbanana.yy",},"order":27,},
