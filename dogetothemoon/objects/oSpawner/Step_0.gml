@@ -8,10 +8,17 @@ if (sAlarm <= 0 and room != Menu)
 	}
 	
 	sAlarm = room_speed;
-	instance_create_depth(x + rand, y-50, 1, oEnemy);
+	if (tempGameScore<10000) instance_create_depth(x + rand, y-50, 1, oEnemy);
+	else if (!bossSpawned)
+	{
+		instance_create_depth(x + rand, y-50, 1, oBoss);
+		bossSpawned = true;
+	}
 	old_rand = rand;
 }
+tempGameScore += 4;
 if(!playerDead) gameScore+= floor(.5*difficulty);
+
 else
 {	
 	canRestart = true;
@@ -58,4 +65,16 @@ if (shake)
 else
 {
 	camera_set_view_pos(view_camera[0], view_x, view_y)
+}
+
+
+if (gameScore > highScore and room = Game and gameScore!=0 and boolHSAudio = false)
+{
+	audio_play_sound(Score,1,false);
+	boolHSAudio = true;
+}
+if (gameScore > highScoreMulti and room = MultiGame and gameScore!=0 and boolHSAudio = false) 
+{
+	audio_play_sound(Score,1,false);
+	boolHSAudio = true;
 }

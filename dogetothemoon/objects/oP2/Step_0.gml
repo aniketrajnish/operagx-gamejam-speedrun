@@ -27,7 +27,7 @@ else if(!left and !right)
 
 x = x + move * pSpeed;
 
-pAlarm-= oSpawner.difficulty/3.75;
+pAlarm-= oSpawner.difficulty/3;
 x=clamp(x, 50, room_width-50);
 image_angle = clamp(image_angle, -15, 15)
 

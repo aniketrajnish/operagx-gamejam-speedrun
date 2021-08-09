@@ -22,7 +22,9 @@ global.partSystem = part_system_create();
 part_system_depth(global.partSystem, -100);
 alarm[1] = 2*room_speed;
 showInstruction = true;
-
+boolHSAudio = false;
+tempGameScore = 0;
+bossSpawned = false;
 audio_group_load(audiogroup_default);
 
 
