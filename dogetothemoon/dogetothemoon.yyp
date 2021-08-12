@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"oBoss","path":"objects/oBoss/oBoss.yy",},"order":14,},
+    {"id":{"name":"Juan_Hit","path":"sprites/Juan_Hit/Juan_Hit.yy",},"order":7,},
     {"id":{"name":"gameFont","path":"fonts/gameFont/gameFont.yy",},"order":0,},
     {"id":{"name":"gameFontSmall","path":"fonts/gameFontSmall/gameFontSmall.yy",},"order":1,},
     {"id":{"name":"oBullet","path":"objects/oBullet/oBullet.yy",},"order":0,},
@@ -41,6 +42,7 @@
     {"id":{"name":"s69","path":"sprites/s69/s69.yy",},"order":6,},
     {"id":{"name":"sBitcoin","path":"sprites/sBitcoin/sBitcoin.yy",},"order":7,},
     {"id":{"name":"SClawUfo","path":"sprites/SClawUfo/SClawUfo.yy",},"order":8,},
+    {"id":{"name":"Juan","path":"sprites/Juan/Juan.yy",},"order":6,},
     {"id":{"name":"sDoge","path":"sprites/sDoge/sDoge.yy",},"order":9,},
     {"id":{"name":"Sdogemoon","path":"sprites/Sdogemoon/Sdogemoon.yy",},"order":10,},
     {"id":{"name":"SEarth","path":"sprites/SEarth/SEarth.yy",},"order":11,},
