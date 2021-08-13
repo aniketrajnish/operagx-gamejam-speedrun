@@ -1,10 +1,10 @@
 sAlarm-= difficulty/6;
 if (sAlarm <= 0 and room != Menu)
 {
-	rand = random_range(-150,150);
-	while (rand <= old_rand + 50 and rand >= old_rand - 50)
+	rand = random_range(-125 ,125);
+	while (rand <= old_rand + 15 and rand >= old_rand - 15)
 	{
-		rand = random_range(-150,150);
+		rand = random_range(-125,125);
 	}
 	
 	sAlarm = room_speed;
@@ -68,12 +68,12 @@ else
 }
 
 
-if (gameScore > highScore and room = Game and gameScore > 1 and boolHSAudio = false)
+if (gameScore > highScore and room = Game and highScore != 0 and boolHSAudio = false)
 {
 	audio_play_sound(Score,1,false);
 	boolHSAudio = true;
 }
-if (gameScore > highScoreMulti and room = MultiGame and gameScore > 1  and boolHSAudio = false) 
+if (gameScore > highScoreMulti and room = MultiGame and highScore != 0  and boolHSAudio = false) 
 {
 	audio_play_sound(Score,1,false);
 	boolHSAudio = true;
