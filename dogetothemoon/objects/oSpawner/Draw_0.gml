@@ -6,7 +6,7 @@ if(room != Menu)
 		draw_set_font(gameFontSmall);
 		if(room == Game)
 		{
-			draw_text(x, y+200, "space - shoot");
+			draw_text(x, y+200, "space / ctrl - shoot");
 			draw_text(x, y+240, "A,D / arrow keys - move ");
 		}
 		else

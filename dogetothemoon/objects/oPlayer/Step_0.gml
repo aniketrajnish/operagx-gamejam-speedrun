@@ -1,6 +1,6 @@
 left = keyboard_check(ord("A")) or keyboard_check(vk_left);
 right = keyboard_check(ord("D"))or keyboard_check(vk_right);
-shoot = keyboard_check(vk_space);
+shoot = keyboard_check(vk_space) or keyboard_check(vk_control);
 
 move = 0;
 pSpeed = 5*oSpawner.difficulty/3;
