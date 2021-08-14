@@ -16,8 +16,8 @@ if (starfe)
 {	
 	if(bAlarm <= 0)
 	{
-		instance_create_depth(x+30, y+40, 2, oMilk);
-		instance_create_depth(x-30, y+40, 2, oMilk);
+		instance_create_depth(x+30, y+40, -1, oMilk);
+		instance_create_depth(x-30, y+40, -1, oMilk);
 		audio_play_sound(Milk,1,false);
 		bAlarm = room_speed*6/oSpawner.difficulty;
 	}

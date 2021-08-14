@@ -1,0 +1,10 @@
+instance_destroy();
+other.eLife--;
+other.sprite_index = Cow_UFO_Hitt;
+other.eAlarm=10;
+oSpawner.shakeValue = 4;
+oSpawner.shake = true;
+oSpawner.alarm[0] = 5;
+rand = random_range(-.25,.25);
+audio_play_sound(Hit,1,false);
+//other.image_alpha = .25;
